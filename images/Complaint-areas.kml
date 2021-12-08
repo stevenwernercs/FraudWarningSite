@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Complaint Map</name>
+    <description><![CDATA[Complaints from Shawn Partain's Customers]]></description>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>ShawnPartainAndZantanaTapiaFraudSummary</name>
+      <Placemark>
+        <name>https://shawnpartainandzantanatapiafraud.com/</name>
+        <address>Garland, TX</address>
+        <description><![CDATA[Date of Complaint: 11/16/2021<br>Company Name: Edge Fencing<br>Location: Garland, TX<br>Complaint: Complaint Pending with BBB, waiting on refund to be returned Friday ]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>11/16/2021</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Edge Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Garland, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>Complaint Pending with BBB, waiting on refund to be returned Friday </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/red-oak/profile/fence-contractors/edge-fencing-0875-91148189/complaints</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 8/16/2021<br>Company Name: Edge Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: DO NOT USE! Shawn *******, the owner, is continuing to defraud others, now with a new business name. He takes 50% downpayment on work that he doesn't complete. We were sold on the promise that he would start and complete our fencing project within 3 weeks of receiving our downpayment. We gave his salesman, Zantana *****, a $6k downpayment, and the fence was never built and it's been over 3.5 months! He has operated under several aliases "CCI Fencing", "Condor Fencing", " "Straight Cut Fencing" and now "Edge Fencing". Last month, we sent him a notarized, certified mail with USPS alerting him that he officially needs to refund us. We gave him 10 business days. He did not refund us. We are now going to file a suit in small claims court against him. Also, if the BBB blurs out his last name, look up "Consumers File Police Report Against Local Contractor" by NBC5 Dallas. It's sickening!!||Desired Outcome||Refund]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>8/16/2021</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Edge Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[DO NOT USE! Shawn *******, the owner, is continuing to defraud others, now with a new business name. He takes 50% downpayment on work that he doesn't complete. We were sold on the promise that he would start and complete our fencing project within 3 weeks of receiving our downpayment. We gave his salesman, Zantana *****, a $6k downpayment, and the fence was never built and it's been over 3.5 months! He has operated under several aliases "CCI Fencing", "Condor Fencing", " "Straight Cut Fencing" and now "Edge Fencing". Last month, we sent him a notarized, certified mail with USPS alerting him that he officially needs to refund us. We gave him 10 business days. He did not refund us. We are now going to file a suit in small claims court against him. Also, if the BBB blurs out his last name, look up "Consumers File Police Report Against Local Contractor" by NBC5 Dallas. It's sickening!!||Desired Outcome||Refund]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/user_details?userid=EU3dfT4pVKPx7pD8co2cYQ</name>
+        <address>Fort Worth, TX</address>
+        <description><![CDATA[Date of Complaint: 8/1/2021<br>Company Name: Edge Fencing<br>Location: Fort Worth, TX<br>Complaint: The team of people who run this "business" truly come across wholesome and honest.... But aren't. they are the opposite...unprofessional.||I didn't know what I didn't know until dealing with them. For this reason I am writing a review. The business does not have a physical address. Should've been something I looked at but didn't think about. They state a decent value for what they were proposing, say they're available to get started on the project right away (took them a little over a a month to get started). They also said that they would take care of the permit if required (even though their contract said that the owner would assume responsibility). They said that since the fence was on my property, I wouldn't need one. Well, I ended up getting a City notice that no permit was ever filed and they didn't recognize he business.||The main guy I dealt with (Zantana) would say things like "you're in good hands like all state"... such garbage. He couldn't even get back to me once I signed the contract.  Would NOT recommend them.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>8/1/2021</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Edge Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Fort Worth, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[The team of people who run this "business" truly come across wholesome and honest.... But aren't. they are the opposite...unprofessional.||I didn't know what I didn't know until dealing with them. For this reason I am writing a review. The business does not have a physical address. Should've been something I looked at but didn't think about. They state a decent value for what they were proposing, say they're available to get started on the project right away (took them a little over a a month to get started). They also said that they would take care of the permit if required (even though their contract said that the owner would assume responsibility). They said that since the fence was on my property, I wouldn't need one. Well, I ended up getting a City notice that no permit was ever filed and they didn't recognize he business.||The main guy I dealt with (Zantana) would say things like "you're in good hands like all state"... such garbage. He couldn't even get back to me once I signed the contract.  Would NOT recommend them.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/user_details?userid=Km2kVvPr-lAjgwIXoey4SQ</name>
+        <address>Cedar Hill, TX</address>
+        <description><![CDATA[Date of Complaint: 5/4/2021<br>Company Name: Condor Fencing<br>Location: Cedar Hill, TX<br>Complaint: They don't deserve a star. This guy Shawn Partain is not a contractor. He is a con man. I sued him in the Ellis County Courthouse over a fence deposit. My lawyer stated that he has no assets so I had to put a lien on his home. Waiting for him to foreclose his house so that I can get my deposit back.||SMH.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>5/4/2021</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Cedar Hill, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[They don't deserve a star. This guy Shawn Partain is not a contractor. He is a con man. I sued him in the Ellis County Courthouse over a fence deposit. My lawyer stated that he has no assets so I had to put a lien on his home. Waiting for him to foreclose his house so that I can get my deposit back.||SMH.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/ovilla/profile/fence-contractors/straight-cut-fence-llc-0875-91067782/complaints</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 3/31/2021<br>Company Name: Straight Cut Fence<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: Co needs to remove dirt. Call asap. Co promised to stain fence at completion of project. Co needs to fix motor and closure issues on electric gate. We have had issues with the fence since the installation that took from 10/28/20 to the end of 12/04/20 to complete. The remote to the motor fails, the chain is too lose to work with the remote. The fence gets stuck and will not close. We have to dismantle the electric motor and release the lock on the motor manually to close and open the heavy fence by hand (which is very heavy - after having rotator cuff shoulder surgery in February, 2021). The fence wobbles when the remote opens it. It does not seem stable and raises security concerns. After paying Straight Cut 1/2 of the price to start the project, their workers began the project by removing the old fence and leaving our backyard opened and exposed and then worked left our project to finish other projects they were working on for several weeks. We called numerous times requesting that the project manager, Zantana T**** (**************) have his workers to come back and finish the job. The contractor Shawn would state a date/time to continue the work and then not show up. I took off work numerous times to be available when work was scheduled, but the contractor/workers for Straight Fence did not show up and many times did not even return the call. When the project was finally completed late, we had to almost deny the final 1/2 payment to ensure the project was completed correctly and cleaning up was done after the project, i.e., nails picked up, trash removed, sweeping of grounds, and dirt and debris removed from the concrete driveway. These are things the workers should have cleared away at the end of the project automatically. The Straight Cut manager and owner Shawn (who never provided his last name, in spite of our request), stated that since Straight Cut was delayed in completing the project he would include a free staining of the inside/outside of the fence. As of 03/30/2021 and to our dismay, despite over twenty telephone calls to Shawn and his project manager, we have been told that the wood on the fence was (1) too new to stain; (2) weather conditions made it too wet to stain the fence. We have called so many times and now they no longer accept Vince V*********'s calls and have not even returned his calls or text messages. Straight Cut gave us a ten-year written warranty on the fence. We doubt they will be in existence as a company to honor this warranty. This is very important since we are already experiencing problems with the fence's motor & chain and the remote not working properly. We are very dissatisfied with the customer service of this company. At this point, we would like to know what needs to be done to hold this contractor responsible for the poor workmanship and lazy attitude when it comes to needed repairs, not staining the fence as agreed, or just poor customer service and refusal to return our calls.||Desired Outcome||||Straight Cut Fencing needs to: 1. Return my calls and set up appointments to check the Gate; 2. Brackets bend on gate are inferior for chain and need to be replaced; 3. Chain is loose; 4. Motor needs adjusting; 5. Door needs to be made sturdy; 6. Staining of Inside and Outside of Fence as promised; 7. Guarantee of Warranty for Ten Years. To fix issues. This is just month #4 and they will not return numerous calls and text messages I have left. How can they provide a ten year warranty if they cannot even return calls after just a few months.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>3/31/2021</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Straight Cut Fence</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[Co needs to remove dirt. Call asap. Co promised to stain fence at completion of project. Co needs to fix motor and closure issues on electric gate. We have had issues with the fence since the installation that took from 10/28/20 to the end of 12/04/20 to complete. The remote to the motor fails, the chain is too lose to work with the remote. The fence gets stuck and will not close. We have to dismantle the electric motor and release the lock on the motor manually to close and open the heavy fence by hand (which is very heavy - after having rotator cuff shoulder surgery in February, 2021). The fence wobbles when the remote opens it. It does not seem stable and raises security concerns. After paying Straight Cut 1/2 of the price to start the project, their workers began the project by removing the old fence and leaving our backyard opened and exposed and then worked left our project to finish other projects they were working on for several weeks. We called numerous times requesting that the project manager, Zantana T**** (**************) have his workers to come back and finish the job. The contractor Shawn would state a date/time to continue the work and then not show up. I took off work numerous times to be available when work was scheduled, but the contractor/workers for Straight Fence did not show up and many times did not even return the call. When the project was finally completed late, we had to almost deny the final 1/2 payment to ensure the project was completed correctly and cleaning up was done after the project, i.e., nails picked up, trash removed, sweeping of grounds, and dirt and debris removed from the concrete driveway. These are things the workers should have cleared away at the end of the project automatically. The Straight Cut manager and owner Shawn (who never provided his last name, in spite of our request), stated that since Straight Cut was delayed in completing the project he would include a free staining of the inside/outside of the fence. As of 03/30/2021 and to our dismay, despite over twenty telephone calls to Shawn and his project manager, we have been told that the wood on the fence was (1) too new to stain; (2) weather conditions made it too wet to stain the fence. We have called so many times and now they no longer accept Vince V*********'s calls and have not even returned his calls or text messages. Straight Cut gave us a ten-year written warranty on the fence. We doubt they will be in existence as a company to honor this warranty. This is very important since we are already experiencing problems with the fence's motor & chain and the remote not working properly. We are very dissatisfied with the customer service of this company. At this point, we would like to know what needs to be done to hold this contractor responsible for the poor workmanship and lazy attitude when it comes to needed repairs, not staining the fence as agreed, or just poor customer service and refusal to return our calls.||Desired Outcome||||Straight Cut Fencing needs to: 1. Return my calls and set up appointments to check the Gate; 2. Brackets bend on gate are inferior for chain and need to be replaced; 3. Chain is loose; 4. Motor needs adjusting; 5. Door needs to be made sturdy; 6. Staining of Inside and Outside of Fence as promised; 7. Guarantee of Warranty for Ten Years. To fix issues. This is just month #4 and they will not return numerous calls and text messages I have left. How can they provide a ten year warranty if they cannot even return calls after just a few months.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/midlothian/profile/fence-contractors/condor-fencing-0875-90117060/customer-reviews</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 3/29/2021<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: Shawn tried to start a new fake company called, "Edgefencing" after his bad publicity of ripping off people under his old name. He tried to have his business varified on Google by using MY ADDRESS! It turns out a tenant that lives at my address is a friend of Shawn's and was going to forward him the Google code. Well, the code met a shredder instead. I have contacted KXAS TV channel 5.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>3/29/2021</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[Shawn tried to start a new fake company called, "Edgefencing" after his bad publicity of ripping off people under his old name. He tried to have his business varified on Google by using MY ADDRESS! It turns out a tenant that lives at my address is a friend of Shawn's and was going to forward him the Google code. Well, the code met a shredder instead. I have contacted KXAS TV channel 5.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.buildzoom.com/contractor/straight-cut-fence</name>
+        <address>Cedar Hill, TX</address>
+        <description><![CDATA[Date of Complaint: 2/12/2021<br>Company Name: Straight Cut Fence<br>Location: Cedar Hill, TX<br>Complaint: This company is a complete scam. Google Condor Fencing, CCI Fencing and Shawn Partain. There are several rip off reports file, news articles and BBB Complaint. This is the new company with a new name created by Shawn Partain. There are fake google reviews posted by friends of Mr. Partain after I posted my Google review to increase his stars. Do not utilize this company. You will join the rest of use who are victims to his scam. Pay a deposit for services and left with nothing but begging for your money back after you realize you have been scammed. Google the owner before you utilize!!!]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>2/12/2021</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Straight Cut Fence</value>
+          </Data>
+          <Data name="Location">
+            <value>Cedar Hill, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>This company is a complete scam. Google Condor Fencing, CCI Fencing and Shawn Partain. There are several rip off reports file, news articles and BBB Complaint. This is the new company with a new name created by Shawn Partain. There are fake google reviews posted by friends of Mr. Partain after I posted my Google review to increase his stars. Do not utilize this company. You will join the rest of use who are victims to his scam. Pay a deposit for services and left with nothing but begging for your money back after you realize you have been scammed. Google the owner before you utilize!!!</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/user_details?userid=XI6WS4D3r1aHSPhEQ_wVmQ</name>
+        <address>Arlington, TX</address>
+        <description><![CDATA[Date of Complaint: 2/7/2021<br>Company Name: Straight Cut Fence<br>Location: Arlington, TX<br>Complaint: Busted our well water line after being shown where it was at. After this mistake they did not make us aware and well pump ran all night until we realized. Explained to them we know mistakes are made but please tell us. Fixed water line myself. A few days later they came back and busted our neighbors water line and just poured sacrete and kept going. 6 weeks  later our neighbor showed up with a $600 water bill and another on the way. Again, they did not notify us of the mistake or attempt to fix it. When I called them to tell them what was going on, they said they would get back to me but never did. I repaired the water line myself, and am now waiting on my neighbors second excessive water bill to resolve the matter. I do not recommend this company!!]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>2/7/2021</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Straight Cut Fence</value>
+          </Data>
+          <Data name="Location">
+            <value>Arlington, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>Busted our well water line after being shown where it was at. After this mistake they did not make us aware and well pump ran all night until we realized. Explained to them we know mistakes are made but please tell us. Fixed water line myself. A few days later they came back and busted our neighbors water line and just poured sacrete and kept going. 6 weeks  later our neighbor showed up with a $600 water bill and another on the way. Again, they did not notify us of the mistake or attempt to fix it. When I called them to tell them what was going on, they said they would get back to me but never did. I repaired the water line myself, and am now waiting on my neighbors second excessive water bill to resolve the matter. I do not recommend this company!!</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/user_details?userid=lKZQkrdjcakyvhBBQob9Nw</name>
+        <address>Waxahachie, TX</address>
+        <description><![CDATA[Date of Complaint: 1/14/2021<br>Company Name: Straight Cut Fence<br>Location: Waxahachie, TX<br>Complaint: 1st thing 1st. do not hire this company for any work. they are crooks. i repeat, they are crooks. they ran off with $10,000 of our money. they showed up and dug holes for 2 weeks. holes not at depth or in alignment. after addressing our dissatisfaction with owner shawn partain. he said they would return 5 days later. only to show up without crew and unprepared to work again. we told him that his company was no longer allowed on my property. he said he would refund our money and that's when he bs began. we will pursue our money back in court and the llc will not save him and his scamming company. if you hire this comany for anything you will be sorry. this company must be shut down forever cause they will just keep changing their name. beware of condor fencing & condor custom homes llc. all scammers]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>1/14/2021</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Straight Cut Fence</value>
+          </Data>
+          <Data name="Location">
+            <value>Waxahachie, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[1st thing 1st. do not hire this company for any work. they are crooks. i repeat, they are crooks. they ran off with $10,000 of our money. they showed up and dug holes for 2 weeks. holes not at depth or in alignment. after addressing our dissatisfaction with owner shawn partain. he said they would return 5 days later. only to show up without crew and unprepared to work again. we told him that his company was no longer allowed on my property. he said he would refund our money and that's when he bs began. we will pursue our money back in court and the llc will not save him and his scamming company. if you hire this comany for anything you will be sorry. this company must be shut down forever cause they will just keep changing their name. beware of condor fencing & condor custom homes llc. all scammers]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/ovilla/profile/fence-contractors/straight-cut-fence-llc-0875-91067782/customer-reviews</name>
+        <address>Cedar Hill, TX</address>
+        <description><![CDATA[Date of Complaint: 1/7/2021<br>Company Name: Straight Cut Fence<br>Location: Cedar Hill, TX<br>Complaint: DO NOT HIRE THIS COMPANY FOR ANYTHING. THIS IS A FAKE COMPANY. THEY PRIDE THEMSELVES IN RUNNING OFF WITH PEOPLES HARD EARNED MONEY. THEY RAN OFF WITH $10,000 dollars of my money. THEY ARE CROOKS]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>1/7/2021</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Straight Cut Fence</value>
+          </Data>
+          <Data name="Location">
+            <value>Cedar Hill, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>DO NOT HIRE THIS COMPANY FOR ANYTHING. THIS IS A FAKE COMPANY. THEY PRIDE THEMSELVES IN RUNNING OFF WITH PEOPLES HARD EARNED MONEY. THEY RAN OFF WITH $10,000 dollars of my money. THEY ARE CROOKS</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.buildzoom.com/contractor/straight-cut-fence</name>
+        <address>Cedar Hill, TX</address>
+        <description><![CDATA[Date of Complaint: 1/7/2021<br>Company Name: Straight Cut Fence<br>Location: Cedar Hill, TX<br>Complaint: DO NOT , I REPEAT DO NOT HIRE THIS COMPANY FOR ANY WORK. This company ran off with our $10,000 dollars. Been chasing them since 11/13/2020. Shawn Partain, Zane Tanner, Andrea Partain and the whole so called company are CROOKS.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>1/7/2021</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Straight Cut Fence</value>
+          </Data>
+          <Data name="Location">
+            <value>Cedar Hill, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>DO NOT , I REPEAT DO NOT HIRE THIS COMPANY FOR ANY WORK. This company ran off with our $10,000 dollars. Been chasing them since 11/13/2020. Shawn Partain, Zane Tanner, Andrea Partain and the whole so called company are CROOKS.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/ovilla/profile/fence-contractors/straight-cut-fence-llc-0875-91067782/complaints</name>
+        <address>Cedar Hill, TX</address>
+        <description><![CDATA[Date of Complaint: 12/29/2020<br>Company Name: Straight Cut Fence<br>Location: Cedar Hill, TX<br>Complaint: Paid $10,000 for the build of a new fence. No fence 6 weeks later. On November 11,2020 my husband paid Straight Cut Fencing A deposit $10,000 for the build of a new fence in our one acre in Waxahachie. I assumed the build would start in a few days. During the 1st week of December we begin reaching out to them to see what the hold was in our fence and was told numerous times the next, the next day. By the 2nd week if December, 2 guys showed up and walked around our home and left. They returned a few day's later with some form of a hole digger. I approached them and was informed that they were not Straight Cut Fence but ***** ************* I became immediately upset and concerned given their was not the company we paid or contracted for our fence services. Per the contract Straight Cur Fencing were AUTHORIZED to do the work. These two gentlemen dug holes and smoked cigarettes on our property for 2 weeks. No pole installation, no cement, no fence installation. After the 3rd week if them showing up on my property mid day I told my husband to tell them to get off our property and contact the company to return our deposit. Needless to say, and hour later the owner of straight cut fence showed up in my property with a few poles and him and one of the other gentleman started throwing them in the holes. Keep in mind this is 3 hours after they have been sitting on my property and after I asked them leave and return our money. The owner of Staight Cut Fence then came to my door and asked me to just give him a few more days and he would get a crew together and he could get our fence done the week of Christmas. I told him no and what day was he planning to return or $10,000 deposit. This was 12/21/2020. I asked him if he was in business for 20 years why would he not have his own crew and staff the worked for him? He just stood there. He then proceeded to tell me he has purchased poles and I informed him that we gave him $10,000 so we expected to have an entire fence as contracted. Not just a random company on our property destroying it and leaving remnants of cigarettes. He informed me he would be bringing a check the following day. He has since ignored our calls and texts and has not returned our deposit. I have since visited the office address listed online and on BBB and it's actually not an amazing five of Straight Cut Fence. It's actually a ***** real estate office the are using the address as part of their fraud. The gentleman that came to our home is Tanner XXX-XXX-XXXX. The owner is Shawn ******* XXX-XXX-XXXX. The Other gentleman who was on our property for over 2 weeks walking, smoking cigarettes and digging holes is Anthony ***** XXX-XXX-XXXX. We paid this company a $10,000 deposit and after 6 weeks we have holes in the yard of our brand new home and an acre of cigarette butts. Other companies have built fences in less than a week in our neighborhood for homes who closed weeks after us. It should of taken less than a day for the holes to be dug in 1 acre of land. I sincerely need your assistance in ensuring this does not happen to another family. We are in a pandemic and to be basically robbed of $10,000 is unacceptable. I'm taking every legal avenue to get of money return.||Desired Outcome||||I want our deposit returned as agreed upon by company. I want the BBB to ensure this company is held accountable for utilizing a false address in there business and this does not happen to another unsuspecting family. We have surveillance camera on all sides and back of our property]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>12/29/2020</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Straight Cut Fence</value>
+          </Data>
+          <Data name="Location">
+            <value>Cedar Hill, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[Paid $10,000 for the build of a new fence. No fence 6 weeks later. On November 11,2020 my husband paid Straight Cut Fencing A deposit $10,000 for the build of a new fence in our one acre in Waxahachie. I assumed the build would start in a few days. During the 1st week of December we begin reaching out to them to see what the hold was in our fence and was told numerous times the next, the next day. By the 2nd week if December, 2 guys showed up and walked around our home and left. They returned a few day's later with some form of a hole digger. I approached them and was informed that they were not Straight Cut Fence but ***** ************* I became immediately upset and concerned given their was not the company we paid or contracted for our fence services. Per the contract Straight Cur Fencing were AUTHORIZED to do the work. These two gentlemen dug holes and smoked cigarettes on our property for 2 weeks. No pole installation, no cement, no fence installation. After the 3rd week if them showing up on my property mid day I told my husband to tell them to get off our property and contact the company to return our deposit. Needless to say, and hour later the owner of straight cut fence showed up in my property with a few poles and him and one of the other gentleman started throwing them in the holes. Keep in mind this is 3 hours after they have been sitting on my property and after I asked them leave and return our money. The owner of Staight Cut Fence then came to my door and asked me to just give him a few more days and he would get a crew together and he could get our fence done the week of Christmas. I told him no and what day was he planning to return or $10,000 deposit. This was 12/21/2020. I asked him if he was in business for 20 years why would he not have his own crew and staff the worked for him? He just stood there. He then proceeded to tell me he has purchased poles and I informed him that we gave him $10,000 so we expected to have an entire fence as contracted. Not just a random company on our property destroying it and leaving remnants of cigarettes. He informed me he would be bringing a check the following day. He has since ignored our calls and texts and has not returned our deposit. I have since visited the office address listed online and on BBB and it's actually not an amazing five of Straight Cut Fence. It's actually a ***** real estate office the are using the address as part of their fraud. The gentleman that came to our home is Tanner XXX-XXX-XXXX. The owner is Shawn ******* XXX-XXX-XXXX. The Other gentleman who was on our property for over 2 weeks walking, smoking cigarettes and digging holes is Anthony ***** XXX-XXX-XXXX. We paid this company a $10,000 deposit and after 6 weeks we have holes in the yard of our brand new home and an acre of cigarette butts. Other companies have built fences in less than a week in our neighborhood for homes who closed weeks after us. It should of taken less than a day for the holes to be dug in 1 acre of land. I sincerely need your assistance in ensuring this does not happen to another family. We are in a pandemic and to be basically robbed of $10,000 is unacceptable. I'm taking every legal avenue to get of money return.||Desired Outcome||||I want our deposit returned as agreed upon by company. I want the BBB to ensure this company is held accountable for utilizing a false address in there business and this does not happen to another unsuspecting family. We have surveillance camera on all sides and back of our property]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/midlothian/profile/fence-contractors/cci-fencing-and-construction-llc-0875-91033629/complaints</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 10/6/2020<br>Company Name: CCI Fencing and Construction LLC<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: CCI Fencing and Construction sign a contract to install a Iron Fence in July 2019. no work done, request refund of deposit of $9000.00. In July 2019 a contract was signed by a Rep from CCI Fencing Mr. ******* ************** he stated work would start late August early September and that they would submit all required paperwork at this point we gave a check for $9000.00. The owner of the company Mr.Shawn ******* came to our house and stated work would start soon. Early September I called Mr. ****** he came to the house at this point no paperwork had been submitted, he stated he would make sure everything would be submitted. Early October my wife and I contacted Mr. *******, he referred us to Mr. Shawn ******* he stated they would be starting soon. In November we contacted Mr. ******* because no request had be submitted to the HOA or City. I went to the HOA submitted paperwork for approval and forward required paperwork to the City for approval.at this point we contacted Mr. Shawn ******* he stated he would stop by the City and complete paperwork for approval. Mr. Shawn ******* went to the City and started to fill out paperwork but left it uncompleted. We contacted the City they inform us of the situation, so I went to the City completed forms for approval January 2020. Notified CCI and requested a start date. At this point Mr. ******* could not provide a start date. We contacted Mr. Shawn ******* he could not tell us a start date. Late March CCI came out, after many calls, dug up holes in the yard for brick post footing with iron rods sticking up out the ground very dangerous for kids to play around he stated he would fix it but never did. Early May 2020, Mr. ******* was contacted and we requested a refund of our deposit. Letter was sent to the CCI Fencing and Construction early June requesting refund of deposit. I had a Heated phone conversation with Mr. ******* early September requesting our money back, he, Mr. ******* stated he did not work for CCI Fencing any more and that Mr. ******* was the person that had our money. Late that day Mr. ******* contacted my wife and said he wanted to work out a deal of giving us $5000.00 on the 1st or 2nd of October2020 and that he would contact us on the September 30, 2020. As of this date 10-1-2020, he failed to contact us and failed to return our money.||Desired Outcome||||We request CCI fencing and Construction to return our deposit of $9000.00]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>10/6/2020</value>
+          </Data>
+          <Data name="Company Name">
+            <value>CCI Fencing and Construction LLC</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value>CCI Fencing and Construction sign a contract to install a Iron Fence in July 2019. no work done, request refund of deposit of $9000.00. In July 2019 a contract was signed by a Rep from CCI Fencing Mr. ******* ************** he stated work would start late August early September and that they would submit all required paperwork at this point we gave a check for $9000.00. The owner of the company Mr.Shawn ******* came to our house and stated work would start soon. Early September I called Mr. ****** he came to the house at this point no paperwork had been submitted, he stated he would make sure everything would be submitted. Early October my wife and I contacted Mr. *******, he referred us to Mr. Shawn ******* he stated they would be starting soon. In November we contacted Mr. ******* because no request had be submitted to the HOA or City. I went to the HOA submitted paperwork for approval and forward required paperwork to the City for approval.at this point we contacted Mr. Shawn ******* he stated he would stop by the City and complete paperwork for approval. Mr. Shawn ******* went to the City and started to fill out paperwork but left it uncompleted. We contacted the City they inform us of the situation, so I went to the City completed forms for approval January 2020. Notified CCI and requested a start date. At this point Mr. ******* could not provide a start date. We contacted Mr. Shawn ******* he could not tell us a start date. Late March CCI came out, after many calls, dug up holes in the yard for brick post footing with iron rods sticking up out the ground very dangerous for kids to play around he stated he would fix it but never did. Early May 2020, Mr. ******* was contacted and we requested a refund of our deposit. Letter was sent to the CCI Fencing and Construction early June requesting refund of deposit. I had a Heated phone conversation with Mr. ******* early September requesting our money back, he, Mr. ******* stated he did not work for CCI Fencing any more and that Mr. ******* was the person that had our money. Late that day Mr. ******* contacted my wife and said he wanted to work out a deal of giving us $5000.00 on the 1st or 2nd of October2020 and that he would contact us on the September 30, 2020. As of this date 10-1-2020, he failed to contact us and failed to return our money.||Desired Outcome||||We request CCI fencing and Construction to return our deposit of $9000.00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Arlington, TX</address>
+        <description><![CDATA[Date of Complaint: 9/12/2020<br>Company Name: Condor Fencing<br>Location: Arlington, TX<br>Complaint: They stole from us. Th er y took our check. Cashed it and never came back. These people have an honesty problem. Check the BBB. You'll see for yourself. Were out a lot of money.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>9/12/2020</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Arlington, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[They stole from us. Th er y took our check. Cashed it and never came back. These people have an honesty problem. Check the BBB. You'll see for yourself. Were out a lot of money.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/midlothian/profile/fence-contractors/condor-fencing-0875-90117060/complaints</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 8/20/2020<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: They took our money but did no service. Refused we paid to return our calls or money. 8-6-18 Xavier came to our house and took a check in the amount of $750.00. It was to fix a gate and part of fence. The check was cashed. We've tried to call and no one returns our calls.||Desired Outcome||||I want my money back.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>8/20/2020</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[They took our money but did no service. Refused we paid to return our calls or money. 8-6-18 Xavier came to our house and took a check in the amount of $750.00. It was to fix a gate and part of fence. The check was cashed. We've tried to call and no one returns our calls.||Desired Outcome||||I want my money back.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/user_details?userid=39j-809TxD1IMbIRfRnImA</name>
+        <address>Plano, TX</address>
+        <description><![CDATA[Date of Complaint: 7/22/2020<br>Company Name: Condor Fencing<br>Location: Plano, TX<br>Complaint: Purchaser BEWARE! This guy Shawn is no stranger to ripping people off. It took me 1 1/2 years to get my fence installed (prior to COVID). My neighbor has tried to get his installed for over 2 years and Shawn won't refund his money. He advertises a 10 year warranty but will not take or return calls about his shotty work. He promises FREE stain but never follows through. He short cuts hardware leaving an unstable fence. This guy is a thief and has had many victims. He especially preys on the elderly. He has been featured on NBC5 investigates at least 3 times that I know of. I should have known after giving my 50% deposit that a call from a check cashing place meant trouble. Buyer do your research. Terrible reviews are everywhere including the BBB which he advertised being a part of but is NOT. DO NOT BUY FROM THIS COMPANY! SHAWN NEEDS TO BE SHUT DOWN!]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>7/22/2020</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Plano, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[Purchaser BEWARE! This guy Shawn is no stranger to ripping people off. It took me 1 1/2 years to get my fence installed (prior to COVID). My neighbor has tried to get his installed for over 2 years and Shawn won't refund his money. He advertises a 10 year warranty but will not take or return calls about his shotty work. He promises FREE stain but never follows through. He short cuts hardware leaving an unstable fence. This guy is a thief and has had many victims. He especially preys on the elderly. He has been featured on NBC5 investigates at least 3 times that I know of. I should have known after giving my 50% deposit that a call from a check cashing place meant trouble. Buyer do your research. Terrible reviews are everywhere including the BBB which he advertised being a part of but is NOT. DO NOT BUY FROM THIS COMPANY! SHAWN NEEDS TO BE SHUT DOWN!]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/midlothian/profile/fence-contractors/condor-fencing-0875-90117060/complaints</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 6/29/2020<br>Company Name: CCI Fencing and Construction LLC<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: Sign contract July 10, 2019 CCI fence Santana to have fence installed no work has been done. Request deposit of $9000.00 Returned ASAP. I signed a contract with CCI Fencing on July 2019 to be completed a fence by September 2019. Due same bad weather work was not done. CCI failed to submit paperwork to have work approved thru HOA and city, failed to return phone calls and refusing to return my deposit of $9000.00. November 2019 I submitted paperwork to HOA for CCI and forwarded to the city Shawn ******* submitted building permit application to the city that was incomplete. I went to the city completed the paperwork and payed the city fees. Without approval from the City, CCI came and dig up six holes in the ground for pillows and put in concrete with iron bars sticking up out the ground for the last three months Which has caused a safety hazard in the yard. One year later I'm left without a fence. The company can not tell you a start or completion date.||Desired Outcome||||Request a refund of all my money ASAP . This company is not working in the best interest of me. From July 2019- July 2020 from day one it has been problems. Company failed to submit approval paperwork and failed to complete the job.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>6/29/2020</value>
+          </Data>
+          <Data name="Company Name">
+            <value>CCI Fencing and Construction LLC</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[Sign contract July 10, 2019 CCI fence Santana to have fence installed no work has been done. Request deposit of $9000.00 Returned ASAP. I signed a contract with CCI Fencing on July 2019 to be completed a fence by September 2019. Due same bad weather work was not done. CCI failed to submit paperwork to have work approved thru HOA and city, failed to return phone calls and refusing to return my deposit of $9000.00. November 2019 I submitted paperwork to HOA for CCI and forwarded to the city Shawn ******* submitted building permit application to the city that was incomplete. I went to the city completed the paperwork and payed the city fees. Without approval from the City, CCI came and dig up six holes in the ground for pillows and put in concrete with iron bars sticking up out the ground for the last three months Which has caused a safety hazard in the yard. One year later I'm left without a fence. The company can not tell you a start or completion date.||Desired Outcome||||Request a refund of all my money ASAP . This company is not working in the best interest of me. From July 2019- July 2020 from day one it has been problems. Company failed to submit approval paperwork and failed to complete the job.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/midlothian/profile/fence-contractors/condor-fencing-0875-90117060/complaints</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 2/17/2020<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: When they replaced my fence, they did not mix the concrete for the fence posts properly. It has crumbled and disintegrated. Condor Fence replaced 3/4 of my back yard fence in April 2015. My contact person was John. I paid $3461 (by check, in 3 installments) for roughly 75 linear feet of cedar fence, with metal poles. The workmen told me the poles were 9 feet long, going 3 feet into the ground for more stability. This fence is above a retaining wall, so stability was especially important to me. They told me, "These poles are not going to move." A couple years after they did the work, my fence was already leaning. My yard man pointed out that the concrete at the base of the poles had crumbled. His diagnosis is that they did not mix the concrete, but just dumped it in the hole with water. Now there is basically no support for the fence poles.||Desired Outcome||||I would like them to refund the amount I paid for the fence, or at least some portiong of it. I will need to pay someone else to do the work they did not do.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>2/17/2020</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[When they replaced my fence, they did not mix the concrete for the fence posts properly. It has crumbled and disintegrated. Condor Fence replaced 3/4 of my back yard fence in April 2015. My contact person was John. I paid $3461 (by check, in 3 installments) for roughly 75 linear feet of cedar fence, with metal poles. The workmen told me the poles were 9 feet long, going 3 feet into the ground for more stability. This fence is above a retaining wall, so stability was especially important to me. They told me, "These poles are not going to move." A couple years after they did the work, my fence was already leaning. My yard man pointed out that the concrete at the base of the poles had crumbled. His diagnosis is that they did not mix the concrete, but just dumped it in the hole with water. Now there is basically no support for the fence poles.||Desired Outcome||||I would like them to refund the amount I paid for the fence, or at least some portiong of it. I will need to pay someone else to do the work they did not do.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/user_details?userid=xEBkuy23VcAlUngfna0U_Q</name>
+        <address>Dallas, TX</address>
+        <description><![CDATA[Date of Complaint: 2/13/2020<br>Company Name: CCI Fencing and Construction LLC<br>Location: Dallas, TX<br>Complaint: Finally got my money returned after almost 8 months of no service and excuses. Unfortunately it took filing a police report to finally get this done, but I did get my money back and I will definitely do MAJOR research when having any services quoted in the future.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>2/13/2020</value>
+          </Data>
+          <Data name="Company Name">
+            <value>CCI Fencing and Construction LLC</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>Finally got my money returned after almost 8 months of no service and excuses. Unfortunately it took filing a police report to finally get this done, but I did get my money back and I will definitely do MAJOR research when having any services quoted in the future.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/midlothian/profile/fence-contractors/condor-fencing-0875-90117060/customer-reviews</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 2/12/2020<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: 11/2018-charged my American Express for second time for $1500 (total $3000) then two days later failed to show up. At that point I did my research and found all the news stories going back years. I cancelled both of the charges before he called to say sorry he would be out the next day. Barely dodged Shawn's bullet. He then offered free staining just like in the news stories.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>2/12/2020</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[11/2018-charged my American Express for second time for $1500 (total $3000) then two days later failed to show up. At that point I did my research and found all the news stories going back years. I cancelled both of the charges before he called to say sorry he would be out the next day. Barely dodged Shawn's bullet. He then offered free staining just like in the news stories.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.buildzoom.com/contractor/cci-fence</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 12/3/2019<br>Company Name: CCI Fencing and Construction LLC<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: 1400 total||This contractor steals your money claiming it’s a deposit for services. He will never communicate with you and refuses to refund the money he steals. He does not do any work and if on the off chance you may speak to him once, after hundreds of calls, he will lie and say he will do the work he contracted for...but he never will. After over 5 months of no contact, I am still trying to get my money back for no services.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>12/3/2019</value>
+          </Data>
+          <Data name="Company Name">
+            <value>CCI Fencing and Construction LLC</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value>1400 total||This contractor steals your money claiming it’s a deposit for services. He will never communicate with you and refuses to refund the money he steals. He does not do any work and if on the off chance you may speak to him once, after hundreds of calls, he will lie and say he will do the work he contracted for...but he never will. After over 5 months of no contact, I am still trying to get my money back for no services.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/midlothian/profile/fence-contractors/cci-fencing-and-construction-llc-0875-91033629/complaints</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 10/25/2019<br>Company Name: CCI Fencing and Construction LLC<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: CCI was contracted to construct a board on board fence pending HOA approval. Approval was denied. CCI didn't return deposit w / no contact. On 8/18/2019 CCI Fencing and Constrution was contracted to construct a 35ft board on board wooden fence at my residence Pending HOA approval from Modification Appeals Board (September 10, 2019 @ 1835 hrs) which was denied. On 8/8/2019 Sales Rep. Mr. ****** (XXX) XXX-XXXX collected a $947.00 dollars deposit. (Check ****** that was cashed by CCI Fencing on 8/20/2019. The Modification Committee of ***************************************, Inc. notified me via mail on September 13, 2019. Since September 13th I have called CCI fencing and Construction ( XXX) XXX-XXXX numerous times and left Messages, with no response regarding my Nine Hundred and Forty Seven dollars:" REFUND" I have also attempted to e-mail the owner of CCI Fencing & Const.: SHAWN ******* at: ********@gmail.com also with no response. This company failed to refund my deposit ($947.00) and has not returned calls nor any form of contact. They took my money and ran! On October 24, 2019 I filed a Police Report with the ******** Police Department regarding CCI Fencing and Construction. The $947.00 dollars check that was cashed by this business. Police :( Incident number XXXXXXXX). Note. I have a complete telephone log of attempted contacts, work order contract, copy of cashed check,and bank statement of payment to CCI. Fencing & Construction from my bank institution the: Los Angeles Police Federal Credit Union. The ******** Police Department Detective's will conduct a follow- up investigation on this business and letigation to follow.||Desired Outcome||||My entire Refund of $947.00]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>10/25/2019</value>
+          </Data>
+          <Data name="Company Name">
+            <value>CCI Fencing and Construction LLC</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[CCI was contracted to construct a board on board fence pending HOA approval. Approval was denied. CCI didn't return deposit w / no contact. On 8/18/2019 CCI Fencing and Constrution was contracted to construct a 35ft board on board wooden fence at my residence Pending HOA approval from Modification Appeals Board (September 10, 2019 @ 1835 hrs) which was denied. On 8/8/2019 Sales Rep. Mr. ****** (XXX) XXX-XXXX collected a $947.00 dollars deposit. (Check ****** that was cashed by CCI Fencing on 8/20/2019. The Modification Committee of ***************************************, Inc. notified me via mail on September 13, 2019. Since September 13th I have called CCI fencing and Construction ( XXX) XXX-XXXX numerous times and left Messages, with no response regarding my Nine Hundred and Forty Seven dollars:" REFUND" I have also attempted to e-mail the owner of CCI Fencing & Const.: SHAWN ******* at: ********@gmail.com also with no response. This company failed to refund my deposit ($947.00) and has not returned calls nor any form of contact. They took my money and ran! On October 24, 2019 I filed a Police Report with the ******** Police Department regarding CCI Fencing and Construction. The $947.00 dollars check that was cashed by this business. Police :( Incident number XXXXXXXX). Note. I have a complete telephone log of attempted contacts, work order contract, copy of cashed check,and bank statement of payment to CCI. Fencing & Construction from my bank institution the: Los Angeles Police Federal Credit Union. The ******** Police Department Detective's will conduct a follow- up investigation on this business and letigation to follow.||Desired Outcome||||My entire Refund of $947.00]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/midlothian/profile/fence-contractors/cci-fencing-and-construction-llc-0875-91033629/complaints</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 10/12/2019<br>Company Name: CCI Fencing and Construction LLC<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: Signed contract for new fence 7/2/19, paid deposit, nothing ever done. I want my money back due to no services rendered to date. On 7/2/19 I signed a contract for a new fence. Paid $700 deposit, half of price. No paper copy given of contract, only a picture sent to my cell phone. Was told it would be completed in 2 weeks. Was told after a week there would be flags in the yard and they would be a week out for the fence. After over a week, no flags, contacted company and was told it would now be 2-3 weeks before completion. On 7/23/19 I contacted them again and was asked for the picture of the contract to be sent to them because he had a new phone. No communication after that. I contacted them on 8/16/19 (6.5 weeks out) and asked when they would do the fence. No reply. Contacted again on 8/19, 8/21, 9/6, 9/7, 9/16, 9/17, 9/18, 9/19, finally on 9/19 they said they would be at my house the beginning of the next week to do it. On 9/24/19 texted them again, no reply. On 9/25 texted again and was told he would call me (the owner, Shawn *******) and set posts on 9/26. On 9/26 nothing was done, he claimed he came by and got material list. On 9/27 nothing done and no communication. On 9/30 still nothing, so I asked for my money to be returned for non-service. On 10/1, 10/3, 10/4, 10/5, 10/6, 10/7, 10/8, 10/9, and 10/10 I have initiated contact asking for my money back. I have reported him to the FTC and let him know. I am contacting an attorney today to find out about a demand letter to get my money back. This guy doesn't call when he says he will, he gives every excuse he can to not communicate. He will send a text every now and then saying he'll call me, but he never calls. I have to initiate contact every time, he never has. To date I have never spoken with the owner, only had a few texts from him. The contract was signed with an employee. They have never been back to my house in almost 4 months since the initial contact. No services have been rendered, nothing has been purchased for materials, nothing has been done. They cashed my $700 deposit check the very next day on 7/3/19. I want my money back. I have been put in a bind now because I have no fence, my current fence is falling apart, and I have had my money stolen by this company. I cannot get another contractor to do the work without getting this guy to give me my money back. Worst customer service, very unprofessional, never answers his phone, never communicates about services, and now committing fraud.||Desired Outcome||||All I want at this point is my money back. The owner sent one text in reply to my many, on 10/5/19 stating that I would get my money back, but not when. I have texted him daily asking him to return my money, to mail my money, to bring it to me, any way I can to try to get it back. At this point he knows he's in the wrong and hasn't provided any services. He knows he needs to return my money, but he just keeps making excuses so he doesn't have to call me. I have only gotten a handful of replies from him to my texts, usually stating that he's driving, he's on a big job, he'll call me later, but I never hear from him again. Please help me get my money back.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>10/12/2019</value>
+          </Data>
+          <Data name="Company Name">
+            <value>CCI Fencing and Construction LLC</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[Signed contract for new fence 7/2/19, paid deposit, nothing ever done. I want my money back due to no services rendered to date. On 7/2/19 I signed a contract for a new fence. Paid $700 deposit, half of price. No paper copy given of contract, only a picture sent to my cell phone. Was told it would be completed in 2 weeks. Was told after a week there would be flags in the yard and they would be a week out for the fence. After over a week, no flags, contacted company and was told it would now be 2-3 weeks before completion. On 7/23/19 I contacted them again and was asked for the picture of the contract to be sent to them because he had a new phone. No communication after that. I contacted them on 8/16/19 (6.5 weeks out) and asked when they would do the fence. No reply. Contacted again on 8/19, 8/21, 9/6, 9/7, 9/16, 9/17, 9/18, 9/19, finally on 9/19 they said they would be at my house the beginning of the next week to do it. On 9/24/19 texted them again, no reply. On 9/25 texted again and was told he would call me (the owner, Shawn *******) and set posts on 9/26. On 9/26 nothing was done, he claimed he came by and got material list. On 9/27 nothing done and no communication. On 9/30 still nothing, so I asked for my money to be returned for non-service. On 10/1, 10/3, 10/4, 10/5, 10/6, 10/7, 10/8, 10/9, and 10/10 I have initiated contact asking for my money back. I have reported him to the FTC and let him know. I am contacting an attorney today to find out about a demand letter to get my money back. This guy doesn't call when he says he will, he gives every excuse he can to not communicate. He will send a text every now and then saying he'll call me, but he never calls. I have to initiate contact every time, he never has. To date I have never spoken with the owner, only had a few texts from him. The contract was signed with an employee. They have never been back to my house in almost 4 months since the initial contact. No services have been rendered, nothing has been purchased for materials, nothing has been done. They cashed my $700 deposit check the very next day on 7/3/19. I want my money back. I have been put in a bind now because I have no fence, my current fence is falling apart, and I have had my money stolen by this company. I cannot get another contractor to do the work without getting this guy to give me my money back. Worst customer service, very unprofessional, never answers his phone, never communicates about services, and now committing fraud.||Desired Outcome||||All I want at this point is my money back. The owner sent one text in reply to my many, on 10/5/19 stating that I would get my money back, but not when. I have texted him daily asking him to return my money, to mail my money, to bring it to me, any way I can to try to get it back. At this point he knows he's in the wrong and hasn't provided any services. He knows he needs to return my money, but he just keeps making excuses so he doesn't have to call me. I have only gotten a handful of replies from him to my texts, usually stating that he's driving, he's on a big job, he'll call me later, but I never hear from him again. Please help me get my money back.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/user_details?userid=xEBkuy23VcAlUngfna0U_Q</name>
+        <address>Dallas, TX</address>
+        <description><![CDATA[Date of Complaint: 10/3/2019<br>Company Name: CCI Fencing and Construction LLC<br>Location: Dallas, TX<br>Complaint: If I could give zero stars I would. These people take your money and never return calls or messages. I have tried to get them to contact me for over 3 1/2 months to build my fence, after giving them half the money up front, and have yet to get any services. I am trying to get my money back now because I cannot wait any longer and I really need my fence done. I turned down 2 other offers because this company promised they could complete the job in 2 weeks. I've only gotten a couple of responses after many texts, messages, and emails and all I get are excuses and no services. I only want to move on and get my money back, but they refuse to contact me. This company is a fraud! They are very unprofessional and unreliable.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>10/3/2019</value>
+          </Data>
+          <Data name="Company Name">
+            <value>CCI Fencing and Construction LLC</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[If I could give zero stars I would. These people take your money and never return calls or messages. I have tried to get them to contact me for over 3 1/2 months to build my fence, after giving them half the money up front, and have yet to get any services. I am trying to get my money back now because I cannot wait any longer and I really need my fence done. I turned down 2 other offers because this company promised they could complete the job in 2 weeks. I've only gotten a couple of responses after many texts, messages, and emails and all I get are excuses and no services. I only want to move on and get my money back, but they refuse to contact me. This company is a fraud! They are very unprofessional and unreliable.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/midlothian/profile/fence-contractors/condor-fencing-0875-90117060/complaints</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 8/15/2019<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: Paid condor fencing to build fence and stain with quality exterior product . I paid Shawn in full , he built fence but have not stained fence yet . On June 15 2018 , I called condor fencing to give estimate on a new board on board fence . Sales man arrived , gave an estimate to tear down existing fence , build new one and stain. After giving the salesman , Santana , $1600.00 ( 50% down) he assured me the fence would be completed by July 4 the next month - it was not . After several phone calls from me , and several excuses from Shawn , my fence was finally built around October 1 2018 . He said he would have fence stained inside a couple of weeks . As of this day August 14 2019 . I have not heard from him . Phone calls are useless||Desired Outcome||||Because the fence needed protection , I stained the fence myself . I want reimbursement for the service I paid for and did not receive]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>8/15/2019</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value>Paid condor fencing to build fence and stain with quality exterior product . I paid Shawn in full , he built fence but have not stained fence yet . On June 15 2018 , I called condor fencing to give estimate on a new board on board fence . Sales man arrived , gave an estimate to tear down existing fence , build new one and stain. After giving the salesman , Santana , $1600.00 ( 50% down) he assured me the fence would be completed by July 4 the next month - it was not . After several phone calls from me , and several excuses from Shawn , my fence was finally built around October 1 2018 . He said he would have fence stained inside a couple of weeks . As of this day August 14 2019 . I have not heard from him . Phone calls are useless||Desired Outcome||||Because the fence needed protection , I stained the fence myself . I want reimbursement for the service I paid for and did not receive</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/midlothian/profile/fence-contractors/cci-fencing-and-construction-llc-0875-91033629/complaints</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 8/9/2019<br>Company Name: CCI Fencing and Construction LLC<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: ****** Fencing now CCI Fencing, CCIFencing.com. Same owner at same home address. *0% of $6,*00 paid. Job contracted for completion 7-26-19. Not done. Up front I failed to get the full names of the owners of this small company. I failed to check that data since I did not have it and that was a fatal mistake. Everything was going well until I noticed they were not digging the post holes the 2.* to 3 feet deep as agreed to in contract. I complained, they said soil was too rocky. I said I would pay an extra $20 to get the final 6 inches to be certain we had a solid fence. They indirectly agreed and then began not answering my phone and promising "next day we **** be there" constantly until it became ridiculous. I called using other phones and ***** would answer giving another excuse, transmission problems etc... (It was the same behavior I found in reading the 27 BBB complaints today against ******.) Today I gave up when he or his staff did not show up as they had agreed to for about the 10th time. I checked out his cell number using an online service and found his correct last name, *******, as well as the history of a 2017 bankruptcy, a 2010 DWI, and that he had lived at the same ********** address for over 20 years. Using his correct name I was able to find multiple complaints, one covered in a *********** paper and another covered by Channel *, but all under the ****** name. I had checked the CCI Fence name before signing the contract and had found nothing. This explained that. I also found positive things like ***** ******* donating $7,000 in labor and fencing work to a local community project. It is sad that this complaint in necessary. The reality of such a long record leaves no alternative. I must get my money back as the quality of the work apparently cannot be trusted, like the attempt to sink the posts in my fence at least 6 inches less deep than was contracted for. I have attached a copy of the contract. The URL for CCIFence.com was established in September 2018 and must be renewed this September. Due to this I am certain there are many other victims since almost a year ago under the CCI Fence name.||Desired Outcome||||I want the full down payment back due to the lack of completion and the massive loss of time due to their constant delays. This has cost me money!]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>8/9/2019</value>
+          </Data>
+          <Data name="Company Name">
+            <value>CCI Fencing and Construction LLC</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[****** Fencing now CCI Fencing, CCIFencing.com. Same owner at same home address. *0% of $6,*00 paid. Job contracted for completion 7-26-19. Not done. Up front I failed to get the full names of the owners of this small company. I failed to check that data since I did not have it and that was a fatal mistake. Everything was going well until I noticed they were not digging the post holes the 2.* to 3 feet deep as agreed to in contract. I complained, they said soil was too rocky. I said I would pay an extra $20 to get the final 6 inches to be certain we had a solid fence. They indirectly agreed and then began not answering my phone and promising "next day we **** be there" constantly until it became ridiculous. I called using other phones and ***** would answer giving another excuse, transmission problems etc... (It was the same behavior I found in reading the 27 BBB complaints today against ******.) Today I gave up when he or his staff did not show up as they had agreed to for about the 10th time. I checked out his cell number using an online service and found his correct last name, *******, as well as the history of a 2017 bankruptcy, a 2010 DWI, and that he had lived at the same ********** address for over 20 years. Using his correct name I was able to find multiple complaints, one covered in a *********** paper and another covered by Channel *, but all under the ****** name. I had checked the CCI Fence name before signing the contract and had found nothing. This explained that. I also found positive things like ***** ******* donating $7,000 in labor and fencing work to a local community project. It is sad that this complaint in necessary. The reality of such a long record leaves no alternative. I must get my money back as the quality of the work apparently cannot be trusted, like the attempt to sink the posts in my fence at least 6 inches less deep than was contracted for. I have attached a copy of the contract. The URL for CCIFence.com was established in September 2018 and must be renewed this September. Due to this I am certain there are many other victims since almost a year ago under the CCI Fence name.||Desired Outcome||||I want the full down payment back due to the lack of completion and the massive loss of time due to their constant delays. This has cost me money!]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/user_details?userid=C25yDTsQwyttWWA90H8YUQ</name>
+        <address>Dallas, TX</address>
+        <description><![CDATA[Date of Complaint: 5/26/2019<br>Company Name: Condor Fencing<br>Location: Dallas, TX<br>Complaint: Paid 50% down in June 2018 . Promised my fence would be finished before July 4. Did not start my fence until November . Finished fence but to this day, May 26 2019 , my fence is still not stained ( which I paid for ) this owner is a thief and a liar]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>5/26/2019</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>Paid 50% down in June 2018 . Promised my fence would be finished before July 4. Did not start my fence until November . Finished fence but to this day, May 26 2019 , my fence is still not stained ( which I paid for ) this owner is a thief and a liar</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Decatur, TX</address>
+        <description><![CDATA[Date of Complaint: 3/18/2019<br>Company Name: Condor Fencing<br>Location: Decatur, TX<br>Complaint: The only reason this crook got one star is because I couldn't give him less.  We trusted him with a nearly $20,000 fence project.  First off, he said it would be completed in a couple weeks and it took almost 4 months.  Secondly, the fence started falling over 8 months later and he did not hold up to his "warranty".  He is a crook and should be thrown in jail for all of the shoddy work he has done.  He should change his name to Shawn "if my lips are moving I'm lying" Partain.  DO NOT DO BUSINESS WITH THIS COMPANY!!!]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>3/18/2019</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Decatur, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[The only reason this crook got one star is because I couldn't give him less.  We trusted him with a nearly $20,000 fence project.  First off, he said it would be completed in a couple weeks and it took almost 4 months.  Secondly, the fence started falling over 8 months later and he did not hold up to his "warranty".  He is a crook and should be thrown in jail for all of the shoddy work he has done.  He should change his name to Shawn "if my lips are moving I'm lying" Partain.  DO NOT DO BUSINESS WITH THIS COMPANY!!!]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.angi.com/companylist/us/tx/addison/condor-fencing-reviews-125984.htm</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 3/18/2019<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: We trusted this company with a nearly $20,000 fence project. First, he said it would only take a couple weeks and it took nearly 4 months. Second, after 8 months the fence started falling over. He said it was under "warranty" and he would get it fixed. Long story short, that never happened. I had to hire a reputable fencing company to come fix his poor work. You get nothing but false promises and lies. The owner, Shawn "if my lips are moving I'm lying" Partain should be thrown in jail for all of the people he has ripped off!]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>3/18/2019</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[We trusted this company with a nearly $20,000 fence project. First, he said it would only take a couple weeks and it took nearly 4 months. Second, after 8 months the fence started falling over. He said it was under "warranty" and he would get it fixed. Long story short, that never happened. I had to hire a reputable fencing company to come fix his poor work. You get nothing but false promises and lies. The owner, Shawn "if my lips are moving I'm lying" Partain should be thrown in jail for all of the people he has ripped off!]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/midlothian/profile/fence-contractors/condor-fencing-0875-90117060/complaints</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 3/12/2019<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: spray stain on fence got all over two of my cars. Will not come off with carwash. Need special treatment to get it off My neighbor had a fence put up by Condor Fencing in January 2019. When he stained the fence he sprayed the stain and it got on two of my cars totally covering both cars with stain. This was in January. I contacted Shawn ******* immediately and was told to take it to carwash. The stain did not come off at carwash and was told by carwash owner it would take a special procedure to remove the stain. I contacted owner of Condor Fencing and he said he would take care of it. Here it is the middle of March 2019, and every time I contact him he gives me some excuse of why he hasn't taken care of this. I am the one doing the contacting. He very seldom responds back. One excuse after another. One of my cars is a lease car and I'm very concerned that this is going to be an issue. Shawn ******* is not a honest man and is basically giving me the runaround. This is Shawn ******* owner of Condor Fencing problem not mine.||Desired Outcome||||Condor Fencing needs to pay me the $400 to take my cars to a reputable place and have the stain removed off of the finish of my car. If this is not correctly it could ruin the paint and finish on my cars]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>3/12/2019</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[spray stain on fence got all over two of my cars. Will not come off with carwash. Need special treatment to get it off My neighbor had a fence put up by Condor Fencing in January 2019. When he stained the fence he sprayed the stain and it got on two of my cars totally covering both cars with stain. This was in January. I contacted Shawn ******* immediately and was told to take it to carwash. The stain did not come off at carwash and was told by carwash owner it would take a special procedure to remove the stain. I contacted owner of Condor Fencing and he said he would take care of it. Here it is the middle of March 2019, and every time I contact him he gives me some excuse of why he hasn't taken care of this. I am the one doing the contacting. He very seldom responds back. One excuse after another. One of my cars is a lease car and I'm very concerned that this is going to be an issue. Shawn ******* is not a honest man and is basically giving me the runaround. This is Shawn ******* owner of Condor Fencing problem not mine.||Desired Outcome||||Condor Fencing needs to pay me the $400 to take my cars to a reputable place and have the stain removed off of the finish of my car. If this is not correctly it could ruin the paint and finish on my cars]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Southlake, TX</address>
+        <description><![CDATA[Date of Complaint: 1/14/2019<br>Company Name: Condor Fencing<br>Location: Southlake, TX<br>Complaint: One star is too good - same as the others... took my deposit and no fence installed and no deposit returned. How do they stay in business?  What a shame they continue to get by with this.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>1/14/2019</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Southlake, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>One star is too good - same as the others... took my deposit and no fence installed and no deposit returned. How do they stay in business?  What a shame they continue to get by with this.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/midlothian/profile/fence-contractors/condor-fencing-0875-90117060/complaints</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 1/8/2019<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: Condor Fencing is failing to perform warranty work on a fence they installed. On June 1st we reported that are fence was falling over. On June 26th, we were told 'I have you on my list, it's a warranty issue, it will be fixed'. We have repeatedly requested warranty serve with nothing but empty promises. We have been more than patient and feel that their promises to uphold the contract terms are meaningless. We have animals that are at risk of getting out of our yard and injuring others. This is not a risk we are willing to take and will hold Condor Fencing accountable for any harm that may come to our animals or others.||Desired Outcome||||One-Fourth of our fence is falling over. We are now demanding $5000 compensation so that we may hire a qualified contractor to fix the warranty work that they continue to fail to complete.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>1/8/2019</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[Condor Fencing is failing to perform warranty work on a fence they installed. On June 1st we reported that are fence was falling over. On June 26th, we were told 'I have you on my list, it's a warranty issue, it will be fixed'. We have repeatedly requested warranty serve with nothing but empty promises. We have been more than patient and feel that their promises to uphold the contract terms are meaningless. We have animals that are at risk of getting out of our yard and injuring others. This is not a risk we are willing to take and will hold Condor Fencing accountable for any harm that may come to our animals or others.||Desired Outcome||||One-Fourth of our fence is falling over. We are now demanding $5000 compensation so that we may hire a qualified contractor to fix the warranty work that they continue to fail to complete.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.bbb.org/us/tx/midlothian/profile/fence-contractors/condor-fencing-0875-90117060/complaints</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 1/7/2019<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: Paid for fence replacement in advance in October 4, 2018, and have never heard back from them after numerous attempts to schedule work. Paid for fence replacement in advance in October 4, 2018, and have never heard back from them after numerous attempts to schedule work. Paid by check, which was cashed at a check cashing business the next day. Owner is Shawn *******, XXX-XXX-XXXX, sales 'Zantanna' cell XXX-XXX-XXXX. Filed police report for theft of service on December 31. They suggested I file with BBB.||Desired Outcome||||Return of my $750.00 deposit as soon as possible.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>1/7/2019</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[Paid for fence replacement in advance in October 4, 2018, and have never heard back from them after numerous attempts to schedule work. Paid for fence replacement in advance in October 4, 2018, and have never heard back from them after numerous attempts to schedule work. Paid by check, which was cashed at a check cashing business the next day. Owner is Shawn *******, XXX-XXX-XXXX, sales 'Zantanna' cell XXX-XXX-XXXX. Filed police report for theft of service on December 31. They suggested I file with BBB.||Desired Outcome||||Return of my $750.00 deposit as soon as possible.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.google.com/maps/place/Condor+Fencing/@32.9309572,-96.7969527,17z/data=!4m7!3m6!1s0x864c26c9d24d3fb5:0x1db6a0bcc72c6ca1!8m2!3d32.9309715!4d-96.7946917!9m1!1b1</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 12/1/2018<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: Not good communicators, do not update customers properly, do not set expectations well with customers, overall VERY easy to get in touch with but VERY difficult to work with.||||They took my deposit on 8/20/18, it's 9/5/2018 and still no fence.||||They made two trips to my house before realizing that we had steel poles already... now the install is delayed because they didn't realize we already had steel poles.||||I will change my review as soon as they are done to reflect the final review based on their end product.||||*** Update - it's October 10th now and we have a great fence that a REAL company put in. Shawn has stolen our money and continues to hide from us. He runs a joke of a business and can't even face his "customers".]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>12/1/2018</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[Not good communicators, do not update customers properly, do not set expectations well with customers, overall VERY easy to get in touch with but VERY difficult to work with.||||They took my deposit on 8/20/18, it's 9/5/2018 and still no fence.||||They made two trips to my house before realizing that we had steel poles already... now the install is delayed because they didn't realize we already had steel poles.||||I will change my review as soon as they are done to reflect the final review based on their end product.||||*** Update - it's October 10th now and we have a great fence that a REAL company put in. Shawn has stolen our money and continues to hide from us. He runs a joke of a business and can't even face his "customers".]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.google.com/maps/place/Condor+Fencing/@32.9309572,-96.7969527,17z/data=!4m7!3m6!1s0x864c26c9d24d3fb5:0x1db6a0bcc72c6ca1!8m2!3d32.9309715!4d-96.7946917!9m1!1b1</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 12/1/2018<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: I have been waiting until last October for my fence to be completed. I have wood boards not properly attached and a lousy stain job. I can't tell you how many times I have called and been told a date when someone will be out to my house and THEY NEVER SHOW UP. Buyer beware. Next I will file with the BBB on this company. I am dealing with the Midlothian office on this issue.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>12/1/2018</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[I have been waiting until last October for my fence to be completed. I have wood boards not properly attached and a lousy stain job. I can't tell you how many times I have called and been told a date when someone will be out to my house and THEY NEVER SHOW UP. Buyer beware. Next I will file with the BBB on this company. I am dealing with the Midlothian office on this issue.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.google.com/maps/place/Condor+Fencing/@32.9309572,-96.7969527,17z/data=!4m7!3m6!1s0x864c26c9d24d3fb5:0x1db6a0bcc72c6ca1!8m2!3d32.9309715!4d-96.7946917!9m1!1b1</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 12/1/2018<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: t's unfortunate that I had to give a star, which isn't deserved.  After taking a 50% deposit, we waited weeks to finally have a fence built after we threatened to hire another contractor to finish the job.  Home construction was delayed as a result. I wonder why we were offered a 5% discount if we were to pay Shawn directly, rather than pay the company. There were countless ignored texts and phone calls and broken promises by Shawn to show up or even call back.  We were eventually forced to take the simplest to gate possible, just to finally get it done. This came with a broken promise to come back and add stylistic detail to the fence. Then there was the final broken promise to show up a few days later to stain the fence. No response to multiple attempts to contact him. I also later learned by a professional electrician that the wiring was incorrect and dangerous, with bare romex wire connecting the gate motor to the home electricity.  Don't risk your safety or waste your time, money, or energy on this one.  Run for the Hills!]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>12/1/2018</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[t's unfortunate that I had to give a star, which isn't deserved.  After taking a 50% deposit, we waited weeks to finally have a fence built after we threatened to hire another contractor to finish the job.  Home construction was delayed as a result. I wonder why we were offered a 5% discount if we were to pay Shawn directly, rather than pay the company. There were countless ignored texts and phone calls and broken promises by Shawn to show up or even call back.  We were eventually forced to take the simplest to gate possible, just to finally get it done. This came with a broken promise to come back and add stylistic detail to the fence. Then there was the final broken promise to show up a few days later to stain the fence. No response to multiple attempts to contact him. I also later learned by a professional electrician that the wiring was incorrect and dangerous, with bare romex wire connecting the gate motor to the home electricity.  Don't risk your safety or waste your time, money, or energy on this one.  Run for the Hills!]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.google.com/maps/place/Condor+Fencing/@32.9309572,-96.7969527,17z/data=!4m7!3m6!1s0x864c26c9d24d3fb5:0x1db6a0bcc72c6ca1!8m2!3d32.9309715!4d-96.7946917!9m1!1b1</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 12/1/2018<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: We have a deposit on May 17, 2018 and still no fence installed and no return on our deposit . Shawn isn't returning calls and we would like to join anyone who has a lawsuit against this person and/or this company please contact  me via Facebook.||We will be contacting BBB and the IRS||Still as of today (June 20, 2018)  no refund and no fence.  Was told last night he (Shawn Partain) had to come and take a look at my peppery which he does for all jobs d ont you think that should have been done weeks ago like days after he took our money.  Also, Shawn stated he needed to order materials I have an email wherein he stared he already ordered materials.  Don't do business with this company they are will quick to take your money and  you will be given the run around.  And over a month this company has had my money and nothing.  I specifically told them how i wanted my fence the same description I've told other fence companies and now it seems like Shawn is trying to change that also.  I've given him till 11;00 am today to give me in writing what I can expect from his company or give me my money back.  Dont dwal with this company if ypur a fool like me and sign up with thos company get everyfhing in writing it makes  filing a lawsuit easier.  Shawn will email you and want to call you at a certain time and not call and now all he wants to do is dor.me to call him.  Don't again get everything in writing.   NEXT STEP LEGAL ACTION.   I'M SO EXUAUSTED AND STRESSED!!!!!😠😠😠😠😠😠😠 Well fence post up since Friday and still no fence Shawn Partain keeps giving me excuses as to why fence isn't up.  I contacted police department and now I'm having my attorney send a letter to him and his company.  Again we have a pool and no fence. Code inspector and insurance company calling wanting to know when it's going go be completed.  Shawn Partain says he is going to waive the remaining balance of  $1,500.00 and stain for free but I still need him and his company to complete the fence.  What he is willing to waive I'll be paying in fines and penalties and my insurance is going to drop me.  We have had a party planned for almost a month and now we are going to have to cancel due to no fence!! WOW 😠😠😠😠😡😡 And I'll make sure everyone knows why AND JUST NOW HE IS TELLING ME THAT HE DIDN'T AGREE TO WAIVING REMAINING BALANCE THAT HE ONLY AGREED TO FREE STAIN THAT HE MISS UNDERSTOOD MY TEXT MESSAGE WOW REALLY and after receiving all this 7 weeks later and no fence so once I finally get this matter resolved I will take the necessary steps to help.insure that no one else gets screwed over this way Its sad because allegedly this business has existed for 18 years make you wonder how many people he has done this to??😠😠😠😠😠😠 via text on||June 21, 2018 so pos going up in the am and we owe nothing more because of the 6 week dwlay and Shawn's response Yes ma'am||I've saved all text messages and emails never know if I might need them!! And now code inspector involved due to our fence being down going on 3 weeks and again he never obtain permit and now fines and fees which we wont be paying trust me]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>12/1/2018</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[We have a deposit on May 17, 2018 and still no fence installed and no return on our deposit . Shawn isn't returning calls and we would like to join anyone who has a lawsuit against this person and/or this company please contact  me via Facebook.||We will be contacting BBB and the IRS||Still as of today (June 20, 2018)  no refund and no fence.  Was told last night he (Shawn Partain) had to come and take a look at my peppery which he does for all jobs d ont you think that should have been done weeks ago like days after he took our money.  Also, Shawn stated he needed to order materials I have an email wherein he stared he already ordered materials.  Don't do business with this company they are will quick to take your money and  you will be given the run around.  And over a month this company has had my money and nothing.  I specifically told them how i wanted my fence the same description I've told other fence companies and now it seems like Shawn is trying to change that also.  I've given him till 11;00 am today to give me in writing what I can expect from his company or give me my money back.  Dont dwal with this company if ypur a fool like me and sign up with thos company get everyfhing in writing it makes  filing a lawsuit easier.  Shawn will email you and want to call you at a certain time and not call and now all he wants to do is dor.me to call him.  Don't again get everything in writing.   NEXT STEP LEGAL ACTION.   I'M SO EXUAUSTED AND STRESSED!!!!!😠😠😠😠😠😠😠 Well fence post up since Friday and still no fence Shawn Partain keeps giving me excuses as to why fence isn't up.  I contacted police department and now I'm having my attorney send a letter to him and his company.  Again we have a pool and no fence. Code inspector and insurance company calling wanting to know when it's going go be completed.  Shawn Partain says he is going to waive the remaining balance of  $1,500.00 and stain for free but I still need him and his company to complete the fence.  What he is willing to waive I'll be paying in fines and penalties and my insurance is going to drop me.  We have had a party planned for almost a month and now we are going to have to cancel due to no fence!! WOW 😠😠😠😠😡😡 And I'll make sure everyone knows why AND JUST NOW HE IS TELLING ME THAT HE DIDN'T AGREE TO WAIVING REMAINING BALANCE THAT HE ONLY AGREED TO FREE STAIN THAT HE MISS UNDERSTOOD MY TEXT MESSAGE WOW REALLY and after receiving all this 7 weeks later and no fence so once I finally get this matter resolved I will take the necessary steps to help.insure that no one else gets screwed over this way Its sad because allegedly this business has existed for 18 years make you wonder how many people he has done this to??😠😠😠😠😠😠 via text on||June 21, 2018 so pos going up in the am and we owe nothing more because of the 6 week dwlay and Shawn's response Yes ma'am||I've saved all text messages and emails never know if I might need them!! And now code inspector involved due to our fence being down going on 3 weeks and again he never obtain permit and now fines and fees which we wont be paying trust me]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Town West, Plano, TX</address>
+        <description><![CDATA[Date of Complaint: 10/28/2018<br>Company Name: Condor Fencing<br>Location: Town West, Plano, TX<br>Complaint: I paid 1500.00 down for a new fence on 8/28/2018. His sales person said would he have a fence with in a CD week.  Never heard or got my fence.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>10/28/2018</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Town West, Plano, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>I paid 1500.00 down for a new fence on 8/28/2018. His sales person said would he have a fence with in a CD week.  Never heard or got my fence.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/user_details?userid=pHSA5XqTvtCPBjbqh1U2cw</name>
+        <address>Plano, TX</address>
+        <description><![CDATA[Date of Complaint: 10/10/2018<br>Company Name: Condor Fencing<br>Location: Plano, TX<br>Complaint: Took off with our deposit, nearly $2000. Shawn Partain doesn't respond, doesn't follow through, etc. There was an NBC5 Investigates special on him and his company... He pleaded with me that it was all lies, and then I ended up getting robbed of our deposit. The real company we had come do the work was in and out in less than a week. Shawn has had my money for over a month and somehow can't figure out how to refund it.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>10/10/2018</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Plano, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[Took off with our deposit, nearly $2000. Shawn Partain doesn't respond, doesn't follow through, etc. There was an NBC5 Investigates special on him and his company... He pleaded with me that it was all lies, and then I ended up getting robbed of our deposit. The real company we had come do the work was in and out in less than a week. Shawn has had my money for over a month and somehow can't figure out how to refund it.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Midlothian, TX</address>
+        <description><![CDATA[Date of Complaint: 9/18/2018<br>Company Name: Condor Fencing<br>Location: Midlothian, TX<br>Complaint: Do Not Hire This Company- They have a "F" rating with Better Business Bureau and they took $1550 Deposit from me to install a fence in Midlothian and all I got was posts and string which I was told is only worth about $300-$400. After 2 months I got tired of dealing with Shawn and I hired another company to finish the job. It ended up costing me more money but they did the job when they said they would. All I ever received from Condor was excuses and even when I fired him he never even offered to refund any of my $1550.00.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>9/18/2018</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Midlothian, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[Do Not Hire This Company- They have a "F" rating with Better Business Bureau and they took $1550 Deposit from me to install a fence in Midlothian and all I got was posts and string which I was told is only worth about $300-$400. After 2 months I got tired of dealing with Shawn and I hired another company to finish the job. It ended up costing me more money but they did the job when they said they would. All I ever received from Condor was excuses and even when I fired him he never even offered to refund any of my $1550.00.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Rockwall, TX</address>
+        <description><![CDATA[Date of Complaint: 9/16/2018<br>Company Name: Condor Fencing<br>Location: Rockwall, TX<br>Complaint: Horrible company!! Please post your bad reviews on Google too because they still have a 2.9 rating there and shouldn't. Channel 5 has also done a report on them so you can still research that! Stole $1500 from my elderly mom and never returned to do fence. She had to spend much more than that to hire a new company so out of way too much money.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>9/16/2018</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Rockwall, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[Horrible company!! Please post your bad reviews on Google too because they still have a 2.9 rating there and shouldn't. Channel 5 has also done a report on them so you can still research that! Stole $1500 from my elderly mom and never returned to do fence. She had to spend much more than that to hire a new company so out of way too much money.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/user_details?userid=W6zIo2bJqCXPFTDSexKh9w</name>
+        <address>Mesquite, TX</address>
+        <description><![CDATA[Date of Complaint: 7/24/2018<br>Company Name: Condor Fencing<br>Location: Mesquite, TX<br>Complaint: We have a deposit on May 17, 2018 and still no fence installed and no return on our deposit . Shawn isn't returning calls and we would like to join anyone who has a lawsuit against this person and/or this company please contact  me via Facebook.||We will be contacting BBB and the IRS||Still as of today (June 20, 2018)  no refund and no fence.  Was told last night he (Shawn Partain) had to come and take a look at my peppery which he does for all jobs d ont you think that should have been done weeks ago like days after he took our money.  Also, Shawn stated he needed to order materials I have an email wherein he stared he already ordered materials.  Don't do business with this company they are will quick to take your money and  you will be given the run around.  And over a month this company has had my money and nothing.  I specifically told them how i wanted my fence the same description I've told other fence companies and now it seems like Shawn is trying to change that also.  I've given him till 11;00 am today to give me in writing what I can expect from his company or give me my money back.  Dont dwal with this company if ypur a fool like me and sign up with thos company get everyfhing in writing it makes  filing a lawsuit easier.  Shawn will email you and want to call you at a certain time and not call and now all he wants to do is dor.me to call him.  Don't again get everything in writing.   NEXT STEP LEGAL ACTION.   I'M SO EXUAUSTED AND STRESSED!!!!! Well fence post up since Friday and still no fence Shawn Partain keeps giving me excuses as to why fence isn't up.  I contacted police department and now I'm having my attorney send a letter to him and his company.  Again we have a pool and no fence. Code inspector and insurance company calling wanting to know when it's going go be completed.  Shawn Partain says he is going to waive the remaining balance of  $1,500.00 and stain for free but I still need him and his company to complete the fence.  What he is willing to waive I'll be paying in fines and penalties and my insurance is going to drop me.  We have had a party planned for almost a month and now we are going to have to cancel due to no fence!! WOW  And I'll make sure everyone knows why AND JUST NOW HE IS TELLING ME THAT HE DIDN'T AGREE TO WAIVING REMAINING BALANCE THAT HE ONLY AGREED TO FREE STAIN THAT HE MISS UNDERSTOOD MY TEXT MESSAGE WOW REALLY Just contacted City of Mesquite and Shawn never pulled permit didn't do inspection and he only had 60 days from date of contract to complete our fence and we still have no fence and have had to basically cancel all summer plans!!! And the city is going to fine him and possible us.  And he is still denying the fact he stated in not 1 but 2 text messages he would waive remaining balance and stain for free due to the time delay!!!! There is an article in the local newspaper from last Thursday please read prior to hiring]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>7/24/2018</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Mesquite, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[We have a deposit on May 17, 2018 and still no fence installed and no return on our deposit . Shawn isn't returning calls and we would like to join anyone who has a lawsuit against this person and/or this company please contact  me via Facebook.||We will be contacting BBB and the IRS||Still as of today (June 20, 2018)  no refund and no fence.  Was told last night he (Shawn Partain) had to come and take a look at my peppery which he does for all jobs d ont you think that should have been done weeks ago like days after he took our money.  Also, Shawn stated he needed to order materials I have an email wherein he stared he already ordered materials.  Don't do business with this company they are will quick to take your money and  you will be given the run around.  And over a month this company has had my money and nothing.  I specifically told them how i wanted my fence the same description I've told other fence companies and now it seems like Shawn is trying to change that also.  I've given him till 11;00 am today to give me in writing what I can expect from his company or give me my money back.  Dont dwal with this company if ypur a fool like me and sign up with thos company get everyfhing in writing it makes  filing a lawsuit easier.  Shawn will email you and want to call you at a certain time and not call and now all he wants to do is dor.me to call him.  Don't again get everything in writing.   NEXT STEP LEGAL ACTION.   I'M SO EXUAUSTED AND STRESSED!!!!! Well fence post up since Friday and still no fence Shawn Partain keeps giving me excuses as to why fence isn't up.  I contacted police department and now I'm having my attorney send a letter to him and his company.  Again we have a pool and no fence. Code inspector and insurance company calling wanting to know when it's going go be completed.  Shawn Partain says he is going to waive the remaining balance of  $1,500.00 and stain for free but I still need him and his company to complete the fence.  What he is willing to waive I'll be paying in fines and penalties and my insurance is going to drop me.  We have had a party planned for almost a month and now we are going to have to cancel due to no fence!! WOW  And I'll make sure everyone knows why AND JUST NOW HE IS TELLING ME THAT HE DIDN'T AGREE TO WAIVING REMAINING BALANCE THAT HE ONLY AGREED TO FREE STAIN THAT HE MISS UNDERSTOOD MY TEXT MESSAGE WOW REALLY Just contacted City of Mesquite and Shawn never pulled permit didn't do inspection and he only had 60 days from date of contract to complete our fence and we still have no fence and have had to basically cancel all summer plans!!! And the city is going to fine him and possible us.  And he is still denying the fact he stated in not 1 but 2 text messages he would waive remaining balance and stain for free due to the time delay!!!! There is an article in the local newspaper from last Thursday please read prior to hiring]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Arlington, TX</address>
+        <description><![CDATA[Date of Complaint: 7/21/2018<br>Company Name: Condor Fencing<br>Location: Arlington, TX<br>Complaint: Please check with the BBB before using. candor has a "F" rating. They  have so many complaints, and they all start the same, " Took our deposit and ghosted". BBB states they do not resolve any issues. Please beware.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>7/21/2018</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Arlington, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[Please check with the BBB before using. candor has a "F" rating. They  have so many complaints, and they all start the same, " Took our deposit and ghosted". BBB states they do not resolve any issues. Please beware.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.ripoffreport.com/reports/condor-fencing/midlothian-texas-76065/condor-fencing-shawn-partain-took-approximately-14000-thousand-dollars-and-did-not-compl-1451844</name>
+        <address>Denison, TX</address>
+        <description><![CDATA[Date of Complaint: 7/15/2018<br>Company Name: Condor Fencing<br>Location: Denison, TX<br>Complaint: Condor Fencing Shawn Partain took approximately 14,000 thousand dollars and did not complete wrought iron fence installation Midlothian Texas||||Dealing with Shawn Partain is way too hard, frustrating and way too exhausting.  I have been dealing with him for 11 months  since August 2017 and the fence job is still not complete.  He makes a million promises and offers another million excuses to no avail.  He swore to me that if I gave him a a second payment that he would complete the job.  I gave him the the second payment on 4/6/18 and he has not completed the job.  He is a scam artist.  I received a violation from the city because he did a poor job of hauling off the old fence. I need my money refunded asap.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>7/15/2018</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Denison, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>Condor Fencing Shawn Partain took approximately 14,000 thousand dollars and did not complete wrought iron fence installation Midlothian Texas||||Dealing with Shawn Partain is way too hard, frustrating and way too exhausting.  I have been dealing with him for 11 months  since August 2017 and the fence job is still not complete.  He makes a million promises and offers another million excuses to no avail.  He swore to me that if I gave him a a second payment that he would complete the job.  I gave him the the second payment on 4/6/18 and he has not completed the job.  He is a scam artist.  I received a violation from the city because he did a poor job of hauling off the old fence. I need my money refunded asap.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/user_details?userid=mtLo-MGlMKDOmBTaRktSXw</name>
+        <address>Denison, TX</address>
+        <description><![CDATA[Date of Complaint: 7/14/2018<br>Company Name: Condor Fencing<br>Location: Denison, TX<br>Complaint: DO NOT USE THIS COMPANY!!!!!!.......Dealing with Shawn Partain is way too hard , frustrating and way too exhausting!!!...I have been dealing with the owner Shawn Partain for 11 months (since August 2017) and the job is still not complete!!!.....he will make a million promises and offer another million excuses to no avail........He needs to be in jail and I will spend all my energy trying to get him there....He has taken approximately 14 thousand dollars and owes me more than that for the aggravation, agony and stress that he has caused......I have had to call the Midlothian and the Denison police departments to get his attention.....The police department informed me that I was not the first to file a complaint against this company .....He is a scam artist , crook and a LIAR!!!!! He has come out on the news as someone to stay away from - unfortunately I learned of this several months after I contracted him....The news was on Channel 5 (2/8/2018) for poor business practices........He also left a mess on the property because he did not haul off all old fencing as per the contract......He did such a poor job hauling off the old fence that I received a violation letter from the city......One of the ways he uses to sucker people in is to use the Better Business Bureau accredition on his website......The BBB has rated Condor Fencing an F and he is not authorized by the BBB to link them under any kind of affliation....He does very shoddy work ...The few panels  he put up still need to be bolted .......BUYER BEWARE of SHAWN PARTAIN /CONDOR FENCING!!!!!!]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>7/14/2018</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Denison, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>DO NOT USE THIS COMPANY!!!!!!.......Dealing with Shawn Partain is way too hard , frustrating and way too exhausting!!!...I have been dealing with the owner Shawn Partain for 11 months (since August 2017) and the job is still not complete!!!.....he will make a million promises and offer another million excuses to no avail........He needs to be in jail and I will spend all my energy trying to get him there....He has taken approximately 14 thousand dollars and owes me more than that for the aggravation, agony and stress that he has caused......I have had to call the Midlothian and the Denison police departments to get his attention.....The police department informed me that I was not the first to file a complaint against this company .....He is a scam artist , crook and a LIAR!!!!! He has come out on the news as someone to stay away from - unfortunately I learned of this several months after I contracted him....The news was on Channel 5 (2/8/2018) for poor business practices........He also left a mess on the property because he did not haul off all old fencing as per the contract......He did such a poor job hauling off the old fence that I received a violation letter from the city......One of the ways he uses to sucker people in is to use the Better Business Bureau accredition on his website......The BBB has rated Condor Fencing an F and he is not authorized by the BBB to link them under any kind of affliation....He does very shoddy work ...The few panels  he put up still need to be bolted .......BUYER BEWARE of SHAWN PARTAIN /CONDOR FENCING!!!!!!</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 3/7/2018<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: I had the most amazing experience from the estimation process to a quick completion. Even with less than helpful weather Condor and crew completed as well as made sure my yard was left as clean as when they arrived. I will definitely be using them for any other home projects I have!]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>3/7/2018</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value>I had the most amazing experience from the estimation process to a quick completion. Even with less than helpful weather Condor and crew completed as well as made sure my yard was left as clean as when they arrived. I will definitely be using them for any other home projects I have!</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.ripoffreport.com/reports/condor-fencing/midlothian-texas/condor-fencing-shawn-partain-condor-fencing-failed-to-complete-project-and-has-not-given-1432753</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 3/6/2018<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: Condor Fencing Shawn Partain Condor Fencing failed to complete project and has not given refund refund on deposit as agreed upon in contract resulting in a loss of over $9K. Midlothian Texas||||Condor Fencing failed to complete duties in written contract by the contractual deadline resulting in a financial loss of over 9K. Condor Fencing failed to give refund, per contract agreement. Condor Fencing is now being sued by for damages.||]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>3/6/2018</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value>Condor Fencing Shawn Partain Condor Fencing failed to complete project and has not given refund refund on deposit as agreed upon in contract resulting in a loss of over $9K. Midlothian Texas||||Condor Fencing failed to complete duties in written contract by the contractual deadline resulting in a financial loss of over 9K. Condor Fencing failed to give refund, per contract agreement. Condor Fencing is now being sued by for damages.||</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Coppell, TX</address>
+        <description><![CDATA[Date of Complaint: 12/13/2017<br>Company Name: Condor Fencing<br>Location: Coppell, TX<br>Complaint: Stay away from this company!  I paid a deposit of half the cost of my gate, the check was cashed immediately.  A month after my gate was promised to be installed, a few excuses and nothing being done, I terminated the contract and requested my deposit check.  Shawn Partain promised reimbursement to my attorney two times and me one time but I never received reimbursement so I filed suit in Small Claims Court, needless to say Shawn Partain/Condor Fencing did not answer so I will get a default judgment.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>12/13/2017</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Coppell, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>Stay away from this company!  I paid a deposit of half the cost of my gate, the check was cashed immediately.  A month after my gate was promised to be installed, a few excuses and nothing being done, I terminated the contract and requested my deposit check.  Shawn Partain promised reimbursement to my attorney two times and me one time but I never received reimbursement so I filed suit in Small Claims Court, needless to say Shawn Partain/Condor Fencing did not answer so I will get a default judgment.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Grapevine, TX</address>
+        <description><![CDATA[Date of Complaint: 10/17/2017<br>Company Name: Condor Fencing<br>Location: Grapevine, TX<br>Complaint: My pregnant wife got a quote from Condor, and paid for "materials" April 2016, when I first left for Afghanistan. Shawn then came back in August and put the deck and fence doors in but did not stain. He said he would be back, multiple calls later and many lies of how we are on "schedule for later in week"  and now Nov 2017 deck and doors are warped, falling off because stain was never put on.  Do not use them, they take your money and do not finish the job.They have an F on BBB and their accreditation has been revoked.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>10/17/2017</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Grapevine, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[My pregnant wife got a quote from Condor, and paid for "materials" April 2016, when I first left for Afghanistan. Shawn then came back in August and put the deck and fence doors in but did not stain. He said he would be back, multiple calls later and many lies of how we are on "schedule for later in week"  and now Nov 2017 deck and doors are warped, falling off because stain was never put on.  Do not use them, they take your money and do not finish the job.They have an F on BBB and their accreditation has been revoked.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Weatherford, TX</address>
+        <description><![CDATA[Date of Complaint: 8/10/2017<br>Company Name: Condor Fencing<br>Location: Weatherford, TX<br>Complaint: The worst service and my fence is awful!! I would NEVER recommend them to anyone!! We waited months for our fence to get installed. The owner kept giving us excuses as to why they can't come out. B.S!]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>8/10/2017</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Weatherford, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[The worst service and my fence is awful!! I would NEVER recommend them to anyone!! We waited months for our fence to get installed. The owner kept giving us excuses as to why they can't come out. B.S!]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Burleson, TX</address>
+        <description><![CDATA[Date of Complaint: 3/24/2017<br>Company Name: Condor Fencing<br>Location: Burleson, TX<br>Complaint: I was greatly taken care of and I thank them for that]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>3/24/2017</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Burleson, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>I was greatly taken care of and I thank them for that</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Midlothian, TX</address>
+        <description><![CDATA[Date of Complaint: 3/22/2017<br>Company Name: Condor Fencing<br>Location: Midlothian, TX<br>Complaint: I don't even know where to start! This company is very, very good at what they do. My experience with them is definitely over the top. I would like to give props to Shawn for being very patient with me as I can be all over the place when making decisions on what to do with my fence. My final decision was to get a privacy fence put up and I was definitely in love with it. Thank you Condor Fencing!]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>3/22/2017</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Midlothian, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[I don't even know where to start! This company is very, very good at what they do. My experience with them is definitely over the top. I would like to give props to Shawn for being very patient with me as I can be all over the place when making decisions on what to do with my fence. My final decision was to get a privacy fence put up and I was definitely in love with it. Thank you Condor Fencing!]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Midlothian, TX</address>
+        <description><![CDATA[Date of Complaint: 3/22/2017<br>Company Name: Condor Fencing<br>Location: Midlothian, TX<br>Complaint: I had called condor fencing in the morning during the week and was very satisfied with my call. I was then promptly given an estimate on my fence that I needed replaced. all in all I can say I will be going back to condor fencing with any other concerns I have with my fence.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>3/22/2017</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Midlothian, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>I had called condor fencing in the morning during the week and was very satisfied with my call. I was then promptly given an estimate on my fence that I needed replaced. all in all I can say I will be going back to condor fencing with any other concerns I have with my fence.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Red Oak, TX</address>
+        <description><![CDATA[Date of Complaint: 1/3/2017<br>Company Name: Condor Fencing<br>Location: Red Oak, TX<br>Complaint: Very happy with the work that was done great craftsmanship professionalism]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>1/3/2017</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Red Oak, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>Very happy with the work that was done great craftsmanship professionalism</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/user_details?userid=TdtsgLdZ_Paq-R3Iw0d5MQ</name>
+        <address>Duncanville, TX</address>
+        <description><![CDATA[Date of Complaint: 10/7/2016<br>Company Name: Condor Fencing<br>Location: Duncanville, TX<br>Complaint: Be careful with this company my son bought a house before purchasing the house the people who they purchased it from paid Condor fencing half to replace the fence. First payment was April 2016 paid the rest in July because of the sell of the house. Today is October 7th they have taken down the old fence but have not come back to replace the fence.||||Stay away from these guys]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>10/7/2016</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Duncanville, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>Be careful with this company my son bought a house before purchasing the house the people who they purchased it from paid Condor fencing half to replace the fence. First payment was April 2016 paid the rest in July because of the sell of the house. Today is October 7th they have taken down the old fence but have not come back to replace the fence.||||Stay away from these guys</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Grand Prairie, TX</address>
+        <description><![CDATA[Date of Complaint: 9/15/2016<br>Company Name: Condor Fencing<br>Location: Grand Prairie, TX<br>Complaint: II would check with other companies!  Look at the reviews!]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>9/15/2016</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Grand Prairie, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>II would check with other companies!  Look at the reviews!</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/user_details?userid=fN-_Vxez4_pY135B3J4i9g</name>
+        <address>Plano, TX</address>
+        <description><![CDATA[Date of Complaint: 9/14/2016<br>Company Name: Condor Fencing<br>Location: Plano, TX<br>Complaint: I encountered a similar issue with Shawn and his company.  Absolutely horrible workmanship and Shawn is extremely unprofessional.  I originally gave them a down payment on March 9, 2016, had to constantly call/text them to come out and complete the work, which didn't happen until late June. The workmanship was insulting.  Rod iron was all scratched down to the steel, gates installed improperly, welding looked like it was completed by a 10 year old.  One of the gates fell off due to the bad welding, cut open my foot.  I was told by Shawn that he would replace everything.  2 months have gone by and they make excuse after excuse on why they can't come out.  Finally had Amex reverse the charges and now Shawn is threatening to place a mechanics lien on my house.  I will be taking him to small claims court if he does place a lien on the house.  This is about to get really expensive for him as I plan on recovering costs of material/labor, plus the cost of removing his rod iron, plus attorney's fees, and time wasted in court.||||They have no business being in this business...]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>9/14/2016</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Plano, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[I encountered a similar issue with Shawn and his company.  Absolutely horrible workmanship and Shawn is extremely unprofessional.  I originally gave them a down payment on March 9, 2016, had to constantly call/text them to come out and complete the work, which didn't happen until late June. The workmanship was insulting.  Rod iron was all scratched down to the steel, gates installed improperly, welding looked like it was completed by a 10 year old.  One of the gates fell off due to the bad welding, cut open my foot.  I was told by Shawn that he would replace everything.  2 months have gone by and they make excuse after excuse on why they can't come out.  Finally had Amex reverse the charges and now Shawn is threatening to place a mechanics lien on my house.  I will be taking him to small claims court if he does place a lien on the house.  This is about to get really expensive for him as I plan on recovering costs of material/labor, plus the cost of removing his rod iron, plus attorney's fees, and time wasted in court.||||They have no business being in this business...]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/user_details?userid=OezYmWnzPb9xSs8XYJyuzQ</name>
+        <address>Euless, TX</address>
+        <description><![CDATA[Date of Complaint: 12/20/2015<br>Company Name: Condor Fencing<br>Location: Euless, TX<br>Complaint: Not happy with this company AT ALL. If you want a job done right go somewhere else.||Also damaged my sprinklers and I had to pay extra to have someone come repair them.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>12/20/2015</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Euless, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>Not happy with this company AT ALL. If you want a job done right go somewhere else.||Also damaged my sprinklers and I had to pay extra to have someone come repair them.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Lewisville, TX</address>
+        <description><![CDATA[Date of Complaint: 9/26/2015<br>Company Name: Condor Fencing<br>Location: Lewisville, TX<br>Complaint: I had Condor Fencing install a wrought iron fence for me. It was supposed to be completed at the end of April 2015 and it is now September and the work has not been completed. Jon originally did the bid but the owner Shawn had to take over the job because of delays and manufacturing problems. Shawn will promise to be on the job a certain day and he generally doesn't make it. He tells you he will do something and he doesn't. I was told that the material was galvanized steel and I am already seeing rust. He never finished welding pet bars on a gate. He never installed the locks he said he would. The lift master gate they installed doesn't work right, one side closes very slow. He never ran the gate control wires under the driveway like he said he would. Bottom line is this company does shoddy work, they are not truthful, they do not finish the job and you will spend a lot of time begging them to do the job. So I pretty much blew $15,000 because I have to hire someone to fix the gate controller, paint the rusty places on the non-galvanized wrought iron, finish the welding that was never done, fix a gate that doesn't latch and have the locks installed on two other gates. I suggest you stay clear of this company because you will have problems and you will get ripped off! Do yourself a favor, hire another company!]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>9/26/2015</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Lewisville, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value><![CDATA[I had Condor Fencing install a wrought iron fence for me. It was supposed to be completed at the end of April 2015 and it is now September and the work has not been completed. Jon originally did the bid but the owner Shawn had to take over the job because of delays and manufacturing problems. Shawn will promise to be on the job a certain day and he generally doesn't make it. He tells you he will do something and he doesn't. I was told that the material was galvanized steel and I am already seeing rust. He never finished welding pet bars on a gate. He never installed the locks he said he would. The lift master gate they installed doesn't work right, one side closes very slow. He never ran the gate control wires under the driveway like he said he would. Bottom line is this company does shoddy work, they are not truthful, they do not finish the job and you will spend a lot of time begging them to do the job. So I pretty much blew $15,000 because I have to hire someone to fix the gate controller, paint the rusty places on the non-galvanized wrought iron, finish the welding that was never done, fix a gate that doesn't latch and have the locks installed on two other gates. I suggest you stay clear of this company because you will have problems and you will get ripped off! Do yourself a favor, hire another company!]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.yelp.com/not_recommended_reviews/condor-fencing-mansfield?not_recommended_start=10</name>
+        <address>Waxahachie, TX</address>
+        <description><![CDATA[Date of Complaint: 11/7/2013<br>Company Name: Condor Fencing<br>Location: Waxahachie, TX<br>Complaint: Condor Fencing replaced my entire fence. The workmanship was great and customer service was unmatched. I would definitely recommend them to my neighbors and anyone needing fence work done.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>11/7/2013</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Waxahachie, TX</value>
+          </Data>
+          <Data name="Complaint">
+            <value>Condor Fencing replaced my entire fence. The workmanship was great and customer service was unmatched. I would definitely recommend them to my neighbors and anyone needing fence work done.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>https://www.angi.com/companylist/us/tx/addison/condor-fencing-reviews-125984.htm</name>
+        <address>Dallas-Fort Worth Metropolitan Area</address>
+        <description><![CDATA[Date of Complaint: 5/12/2004<br>Company Name: Condor Fencing<br>Location: Dallas-Fort Worth Metropolitan Area<br>Complaint: THE JOB WAS NOT COMPLETED TIMELY (STARTED 12/26/03), IN FACT, THEY ARE JUST NOW FINISHING THE TRIM AND STAIN AS OF 4/20/04.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Date of Complaint">
+            <value>5/12/2004</value>
+          </Data>
+          <Data name="Company Name">
+            <value>Condor Fencing</value>
+          </Data>
+          <Data name="Location">
+            <value>Dallas-Fort Worth Metropolitan Area</value>
+          </Data>
+          <Data name="Complaint">
+            <value>THE JOB WAS NOT COMPLETED TIMELY (STARTED 12/26/03), IN FACT, THEY ARE JUST NOW FINISHING THE TRIM AND STAIN AS OF 4/20/04.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

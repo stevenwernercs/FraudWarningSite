@@ -15,6 +15,9 @@
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
+      html { 
+	scroll-padding-top: 125px; 
+      }
       .bd-placeholder-img {
         font-size: 1.125rem;
         text-anchor: middle;
@@ -45,6 +48,9 @@
       }
     </style>
     
+    <!-- Custom styles for this template -->
+    <link href="navbar-top-fixed.css" rel="stylesheet">
+    
     <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCG86U3_subBCpgXS4UOHWCi9nHzZ5Xhcc&callback=initMap">
     </script>
     <script>
@@ -54,7 +60,7 @@
 	function initMap() {
 	  const mapOptions = {
 	    center: { lat: 32.7767, lng: -96.797},
-	    zoom: 9,
+	    zoom: 10,
 	  };	
 
 	  mapElement = document.getElementById('map-canvas');
@@ -83,15 +89,49 @@
   </head>
   <body>
     
+
+<nav class="navbar navbar-expand-sm navbar-dark fixed-top bg-dark">
+  <div class="container-fluid">
+
+      <a href="/" class="navbar-brand">
+        <img src="../images/warn.png" width="50px"</img>
+        <span class="fs-5">Complaint Hub</span>
+      </a>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+      <ul class="navbar-nav me-auto mb-2 mb-md-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#summary">Summary</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#chart">Chart</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#details">Details</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#map">Map</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#complaints">Complaints</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://docs.google.com/spreadsheets/d/1rW7Lb8JNIywkO2Uxn8qvjJKQNZulicjdkwM_H8gVMQc/edit?usp=sharing" target="_blank" class="card-link">Source</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSfRWgU_Pz-aOwZpM0K7zZtUvzgh50cvGEaLdT_AOzOaG8Ap6A/viewform?usp=sf_link" class="btn btn-danger btn-md" target="_blank" role="button">Report</a>&nbsp;
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSeBisYjrQ_gL6ywySbj-vh8r9OSpmVCu6Dzknu_0AvNPZz6_w/viewform?usp=sf_link" class="btn btn-success btn-md" target="_blank" role="button">Update</a>
+      </form>
+    </div>
+  </div>
+</nav>
+
 <main>
   <div class="container py-4">
-    <header class="pb-3 mb-4 border-bottom">
-      <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
-        <img src="../images/warn.png" width="50px"</img>
-        <span class="fs-4">Victim Created Fraud Complaint Hub</span>
-      </a>
-    </header>
-
     <div class="p-5 mb-4 bg-warning rounded-3">
       <div class="container-fluid py-5">
         <h1 class="display-5 fw-bold">Caution!</h1>
@@ -116,6 +156,7 @@
 	<p></p>
 	<p class="col-md-12"> This site was created by a <strong>victim</strong> to consolidate these complaints and create a running tally for how much money people say has been stolen from them by these two individuals.</p>
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLSfRWgU_Pz-aOwZpM0K7zZtUvzgh50cvGEaLdT_AOzOaG8Ap6A/viewform?usp=sf_link" class="btn btn-danger btn-lg" target="_blank" role="button">Add your report to the list</a>
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSeBisYjrQ_gL6ywySbj-vh8r9OSpmVCu6Dzknu_0AvNPZz6_w/viewform?usp=sf_link" class="btn btn-success btn-lg" target="_blank" role="button">Update Refund Status</a>
 	<!-- span class="d-inline-block" tabindex="0" data-toggle="tooltip" title="I need to enter in all the data from the linked Excel sheet before the stats become visually useful">
 	  <button type="button" style="pointer-events: none;" class="btn btn-primary btn-lg" disabled >View report stats</button>
 	</span -->
@@ -174,15 +215,19 @@
 
     <div class="p-8 mb-4 rounded-3">
       <div class="container-fluid py-5">
+	<a id="summary">
         <h3 class="display-8 fw-bold">Summary of all Complaints (64 as of 12/05/2021)</h3>
+	</a>
        <p class="col-md-10 fs-4">Partain &amp; Tapia have a total of 10 company names, although it seems only 4 were active in fencing and fraud.</p>
 	<p class="col-md-12">Near 2018 Partain's comany's quality seemed to take a sharp dive and they began transitioning to new names as the bad reputation spread. The most prevalent complaint is delays and only partial work with little to no communication. The ratio of stealing deposits compaired to partial work seemed to have been increasing since the issues started, and is now the most often complaint.</p>
-	<p class="col-md-12">There was a total of 64 self reported complaints (as of 12/05/2021 [62 Reviews + 2 Unmatched Liens]), each are linked an consolidated in the source links below. <strong>At least $52,497 was stolen from 16 families</strong> by taking deposits and never initiating work. <strong>At least $41,461 in Damages and incomplete work is sought by 12 families.</strong> At the very minimum <strong>$93,958 is wanted by 28 families</strong> for theft, as well as issues due to partial work, poor quality, and warrenty work. This is only the reported cases, there may be many more cases invovling less computer literate consumers.</p>        
+	<p class="col-md-12">There was a total of 64 self reported complaints (as of 12/05/2021 [62 Reviews + 2 Unmatched Liens]), each are linked an consolidated in the source links below. <strong>At least $52,497 was stolen from 16 families</strong> by taking deposits and never initiating work. <strong>At least $41,461 in Damages and incomplete work is sought by 12 families.</strong> At the very minimum <strong>$93,958 is wanted by 28 families</strong> for theft, as well as issues due to partial work, poor quality, and warrenty work. In cases where complaints helped push a resolution, it is very possible that the complaint has not been updated with the end result. Alternatively, this is also only the available reported cases. There may be more cases invovling less computer literate consumers, as well as the many complaints that may have lost when the original Condor Fencing GoogleMaps entry was removed.</p>
 
 	<div class="card-columns">
           <div class="card bg-light">
             <div class="card-body">
-	     <img class="card-img-top" src="./images/stolen3.svg" alt="Chart with Plotted Date and Deposit Color-Coded by Issue Type">
+	     <a id="chart">
+	      <img class="card-img-top" src="./images/stolen3.svg" alt="Chart with Plotted Date and Deposit Color-Coded by Issue Type">
+	      </a>	
               <p class="card-text"><table class="table">
 			<tr><th style="width: 60%"></th><th style="width: 40%"></th></tr>	
 			<tr><td>Most Recent Complaint:</td><td>12/10/2021</td></tr>
@@ -205,8 +250,9 @@
 
     <div class="p-8 mb-4 rounded-3">
       <div class="container-fluid py-5">
-        <h3 class="display-8 fw-bold">Detailed Data By Company</h3>
-        
+	<a id="details">
+	        <h3 class="display-8 fw-bold">Detailed Data By Company</h3>
+        </a> 
 	<div class="card-columns">
           <div class="card bg-light">
             <div class="card-body">
@@ -394,7 +440,8 @@
 	<div class="card-columns">
           <div class="card bg-light">
             <div class="card-body">
-              <h5 class="card-title">All Collected Reviews</h5>
+	      <a id="map">
+              <h5 class="card-title">All Collected Reviews</h5> </a>
               <p class="card-text">
 		<div id="map-canvas"></div>
 	      </p>
@@ -406,6 +453,7 @@
 	      <p></p>
               <p class="card-text">
 		<div class=table-wrapper>
+	      	    <a id="complaints"></a>
 		    <table class="table">
 			<tr><th style="width: 20%"></th><th style="width: 80%"></th></tr>	
 			<tr><td><strong>Date of Complaint</strong></td><td><strong>Complaint</strong></td></tr>
@@ -486,7 +534,7 @@
   </div>
 </main>
 
-
+  <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
     
   </body>
 </html>
