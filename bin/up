@@ -1,0 +1,10 @@
+#!/bin/sh
+set -eu
+
+if [ -f .env ]; then
+  set -a
+  . ./.env
+  set +a
+fi
+
+exec docker compose up -d web

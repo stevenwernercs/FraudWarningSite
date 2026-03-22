@@ -5,3 +5,11 @@
 package.sh
 package-exclude.ctl
 ignore
+CF-cases
+images/*.kml
+images/*.kmz
+images/thief.jpg
+images/thief.png
+images/stolen*.svg
+images/DFW5.png
+images/mirror.svg

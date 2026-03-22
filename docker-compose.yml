@@ -1,0 +1,43 @@
+version: "3.9"
+
+services:
+  web:
+    build:
+      context: .
+      args:
+        BUILD_REF: ${BUILD_REF:-local}
+    container_name: fraudwarningsite-web
+    restart: unless-stopped
+    ports:
+      - "${PORT:-8084}:80"
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost/ >/dev/null 2>&1 || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+    networks:
+      - default
+      - edge
+
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: fraudwarningsite-cloudflared
+    restart: unless-stopped
+    depends_on:
+      - web
+    command: tunnel --no-autoupdate run --token ${CLOUDFLARED_TOKEN}
+    environment:
+      - TUNNEL_METRICS=0.0.0.0:2000
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ./cloudflared:/etc/cloudflared:ro
+    networks:
+      - edge
+    profiles: ["local"]
+
+networks:
+  default:
+    name: fraudwarningsite
+  edge:
+    external: true
