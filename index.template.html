@@ -9,7 +9,7 @@
     <title>DFW Fraud Warning!</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/jumbotron/">
-    <link rel="icon" href="./images/warn.png">
+    <link rel="icon" type="image/svg+xml" href="./images/favicon.svg">
 
     <!-- Bootstrap core CSS -->
     <link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -725,12 +725,23 @@
     </div>
 
     <footer class="pt-3 mt-4 text-muted border-top">
-      &copy; 2021
+      &copy; <span id="copyright-year-range">2021</span>
     </footer>
   </div>
 </main>
 
   <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
+
+  <script>
+    (function () {
+      var startYear = 2021;
+      var currentYear = new Date().getFullYear();
+      var text = currentYear > startYear ? startYear + '-' + currentYear : String(startYear);
+      document.querySelectorAll('#copyright-year-range').forEach(function (node) {
+        node.textContent = text;
+      });
+    }());
+  </script>
     
   </body>
 </html>

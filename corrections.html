@@ -6,7 +6,7 @@
     <meta name="robots" content="noindex, noarchive">
     <title>Corrections Policy</title>
 
-    <link rel="icon" href="./images/warn.png">
+    <link rel="icon" type="image/svg+xml" href="./images/favicon.svg">
     <link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="navbar-top-fixed.css" rel="stylesheet">
   </head>
@@ -48,6 +48,21 @@
       </div>
     </main>
 
+    <footer class="pt-3 mt-4 text-muted border-top">
+      &copy; <span id="copyright-year-range">2021</span>
+    </footer>
+
     <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
+
+  <script>
+    (function () {
+      var startYear = 2021;
+      var currentYear = new Date().getFullYear();
+      var text = currentYear > startYear ? startYear + '-' + currentYear : String(startYear);
+      document.querySelectorAll('#copyright-year-range').forEach(function (node) {
+        node.textContent = text;
+      });
+    }());
+  </script>
   </body>
 </html>
