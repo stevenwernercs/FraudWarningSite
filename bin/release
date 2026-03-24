@@ -1,0 +1,81 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+usage() {
+  cat <<'USAGE'
+Usage:
+  bin/release "commit message"
+  bin/release --no-commit
+
+Behavior:
+  - rebuilds and restarts the local site on PORT (default 8085) with USE_GSM=true
+  - verifies the local site responds
+  - with a commit message: git add/commit/push origin main
+  - with --no-commit: skips git commit/push and only republishes the Docker image
+  - tags and pushes the image to Artifact Registry as :latest and :YYYYMMDD-HHMMSS
+USAGE
+}
+
+ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+PORT="${PORT:-8085}"
+USE_GSM="${USE_GSM:-true}"
+
+mode="commit"
+commit_message=""
+
+case "${1:-}" in
+  "")
+    echo "release: provide a commit message or --no-commit" >&2
+    usage >&2
+    exit 2
+    ;;
+  --no-commit)
+    mode="no_commit"
+    ;;
+  -h|--help)
+    usage
+    exit 0
+    ;;
+  *)
+    commit_message="$1"
+    ;;
+esac
+
+cd "$ROOT_DIR"
+
+PORT="$PORT" USE_GSM="$USE_GSM" ./bin/up
+curl -sfI "http://localhost:${PORT}" >/dev/null
+
+git_status="$(git status --short)"
+
+if [[ "$mode" == "commit" ]]; then
+  if [[ -z "$git_status" ]]; then
+    echo "release: no git changes to commit" >&2
+    exit 1
+  fi
+
+  git add -A
+  git commit -m "$commit_message"
+  git push origin main
+else
+  if [[ -n "$git_status" ]]; then
+    echo "release: working tree is dirty; commit first or rerun with a commit message" >&2
+    printf '%s\n' "$git_status" >&2
+    exit 1
+  fi
+fi
+
+# shellcheck disable=SC1091
+source /home/swerner/projects/setenv.sh
+
+TS="$(date +%Y%m%d-%H%M%S)"
+IMAGE="${AR_REGION}-docker.pkg.dev/${GCP_PROJECT_ID}/${AR_REPO}/fraudwarningsite"
+
+docker tag fraudwarningsite-web:latest "${IMAGE}:latest"
+docker tag fraudwarningsite-web:latest "${IMAGE}:${TS}"
+docker push "${IMAGE}:latest"
+docker push "${IMAGE}:${TS}"
+
+printf 'Local: http://localhost:%s\n' "$PORT"
+printf 'Image: %s:latest\n' "$IMAGE"
+printf 'Image: %s:%s\n' "$IMAGE" "$TS"
