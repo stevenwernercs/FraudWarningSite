@@ -32,3 +32,9 @@ At the same time, it avoids some of the most attackable choices from the old ver
 - Replace the placeholder wording in the `My Documented Case` section with exact dates, partial repayment totals, and current unpaid balance
 - Review outbound links for currency and accuracy
 - If this repo is public, remember that removed material still exists in git history; the strongest cleanup is publishing from a fresh repo or orphan branch that contains only the relaunch site
+
+
+## Maps API key
+
+- `index.template.html` contains the `__GOOGLE_MAPS_API_KEY__` placeholder
+- local startup can load `GOOGLE_MAPS_API_KEY` from `.env` or from Google Secret Manager when `USE_GSM=true`

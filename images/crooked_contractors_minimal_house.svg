@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title desc">
+  <title id="title">Minimal leaning house icon</title>
+  <desc id="desc">A clean minimalist house outline leaning slightly to the right above a level ground line.</desc>
+
+  <g transform="rotate(10 128 124)" fill="none" stroke="#1f2937" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- House body -->
+    <rect x="84" y="98" width="88" height="72" rx="4" ry="4"/>
+    <!-- Roof -->
+    <path d="M76 104 L128 62 L180 104"/>
+    <!-- Door -->
+    <path d="M118 170 V132 H138 V170"/>
+  </g>
+
+  <!-- Level ground -->
+  <path d="M64 196 H192" fill="none" stroke="#1f2937" stroke-width="10" stroke-linecap="round"/>
+</svg>

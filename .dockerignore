@@ -5,5 +5,3 @@
 package.sh
 package-exclude.ctl
 CF-cases
-images/*.kml
-images/*.kmz

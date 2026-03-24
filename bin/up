@@ -7,4 +7,11 @@ if [ -f .env ]; then
   set +a
 fi
 
-exec docker compose up -d web
+if [ "${USE_GSM:-false}" = "true" ] && command -v gcloud >/dev/null 2>&1; then
+  if [ -z "${GOOGLE_MAPS_API_KEY:-}" ]; then
+    GOOGLE_MAPS_API_KEY=$(gcloud secrets versions access latest --secret=GOOGLE_MAPS_API_KEY 2>/dev/null || true)
+    export GOOGLE_MAPS_API_KEY
+  fi
+fi
+
+exec docker compose up -d --build web

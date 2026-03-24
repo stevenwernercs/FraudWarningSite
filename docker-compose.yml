@@ -8,6 +8,8 @@ services:
         BUILD_REF: ${BUILD_REF:-local}
     container_name: fraudwarningsite-web
     restart: unless-stopped
+    environment:
+      - GOOGLE_MAPS_API_KEY=${GOOGLE_MAPS_API_KEY:-}
     ports:
       - "${PORT:-8084}:80"
     healthcheck:
