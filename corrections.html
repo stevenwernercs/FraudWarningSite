@@ -9,11 +9,59 @@
     <link rel="icon" type="image/svg+xml" href="./images/favicon.svg">
     <link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="navbar-top-fixed.css" rel="stylesheet">
+    <style>
+      html, body {
+        height: 100%;
+      }
+      body {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+      main {
+        flex: 1 0 auto;
+      }
+      footer {
+        flex-shrink: 0;
+      }
+      .navbar-brand {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        white-space: nowrap;
+      }
+      .navbar-brand img {
+        display: block;
+        flex: 0 0 auto;
+      }
+    </style>
   </head>
   <body>
     <nav class="navbar navbar-expand-sm navbar-dark fixed-top bg-dark">
       <div class="container-fluid">
-        <a href="./index.html" class="navbar-brand">Fence Source Archive</a>
+        <a href="/" class="navbar-brand">
+          <img src="./images/crooked_contractors_minimal_house.svg" width="50" alt="Crooked house logo">
+          <span class="fs-5">Complaint Hub</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav me-auto mb-2 mb-md-0">
+            <li class="nav-item"><a class="nav-link active" aria-current="page" href="./index.html#summary">Summary</a></li>
+            <li class="nav-item"><a class="nav-link active" aria-current="page" href="./index.html#chart">Chart</a></li>
+            <li class="nav-item"><a class="nav-link active" aria-current="page" href="./index.html#details">Details</a></li>
+            <li class="nav-item"><a class="nav-link active" aria-current="page" href="./index.html#map">Map</a></li>
+            <li class="nav-item"><a class="nav-link active" aria-current="page" href="./index.html#complaints">Complaints</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://docs.google.com/spreadsheets/d/1rW7Lb8JNIywkO2Uxn8qvjJKQNZulicjdkwM_H8gVMQc/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Source</a></li>
+            <li class="nav-item"><a class="nav-link active" aria-current="page" href="./index.html#context">Context</a></li>
+            <li class="nav-item"><a class="nav-link active" aria-current="page" href="./corrections.html">Corrections</a></li>
+          </ul>
+          <form class="d-flex">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRWgU_Pz-aOwZpM0K7zZtUvzgh50cvGEaLdT_AOzOaG8Ap6A/viewform?usp=sf_link" class="btn btn-danger btn-md" target="_blank" rel="noopener noreferrer" role="button">Report</a>&nbsp;
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeBisYjrQ_gL6ywySbj-vh8r9OSpmVCu6Dzknu_0AvNPZz6_w/viewform?usp=sf_link" class="btn btn-success btn-md" target="_blank" rel="noopener noreferrer" role="button">Update</a>
+          </form>
+        </div>
       </div>
     </nav>
 
@@ -23,10 +71,10 @@
           <div class="container-fluid py-4">
             <h1 class="display-6 fw-bold">Corrections and Clarifications</h1>
             <p class="fs-5">
-              This site aims to link to original public sources in a neutral way. If a source is misidentified, stale, broken, or materially misleading in context, it should be reviewed.
+              This page explains how visitors can request a correction, clarification, or context update when a source link, summary, or reference on the site appears inaccurate, stale, or materially incomplete.
             </p>
             <p>
-              A request should include:
+              A useful request should include:
             </p>
             <ul>
               <li>The URL or page section at issue.</li>
@@ -38,14 +86,14 @@
               Contact: <code>info@crooked.contractors</code>
             </div>
             <p class="mb-0">
-              Good-faith requests for correction, clarification, or removal should be reviewed promptly and logged with the date received and the action taken.
+              Good-faith requests should identify the specific page or claim at issue so the underlying source material can be reviewed and, when appropriate, corrected, clarified, or updated.
             </p>
           </div>
         </div>
       </div>
     </main>
 
-    <footer class="pt-3 mt-4 text-muted border-top">
+    <footer class="container pt-3 mt-4 text-muted border-top">
       &copy; <span id="copyright-year-range">2021</span>
     </footer>
 
