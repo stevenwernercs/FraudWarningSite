@@ -14,4 +14,4 @@ if [ "${USE_GSM:-false}" = "true" ] && command -v gcloud >/dev/null 2>&1; then
   fi
 fi
 
-exec docker compose up -d --build web
+exec docker compose up -d --build --force-recreate web
